@@ -1,14 +1,26 @@
-The Strategy 
-
-Data Science project
-github: both of us run it and use it to share files and code
-TODO: github client install for Jim -> emailed github support
-TODO: natalie figure out how to update fork with master
-TODO: jim send natalie URL for new github project
-TODO: organize files
-
 J brainstorm things that I would like to learn from the data:
-	normalize speed scale 1 - 10 and square distance from the mean
-	normalize meters / ,minute and do the same
-	add attacking stats: goals, shots, assists, takeons
-	
+normalize speed scale 1 - 10 and square distance from the mean
+	FIFAWorldCup2014Distance.csv column K Meters  / minute
+	" col N Top Speed 
+normalize meters / ,minute and do the same
+add attacking stats: goals, shots, assists, takeons
+	find on internet
+
+UID first 4 char of last name + 3 letter country code
+--> natalie - refine UID creation
+
+WM2014AllPlayersGerman.xlsx
+	tabs with unique data: all players, spieler (mehr details)
+	others are calculations
+WorldClubRanking.csv
+	RANK	CLUB	POINTS	COUNTRY
+WC14PassingByPlayer.csv
+	MATCHES PLAYED	MINUTES PLAYED	TOTAL PASSES	PASSES COMPLETED
+	plus first/last name & UID typed by jim
+FIFAWorldCup2014Distance.csv
+	some columns merged from WC14PassingByPlayer.csv
+	PASSES / MEAN	Km covered in possession	Km covered not in possession	Matches Played	Minutes Played	Minutes / game	Meters  / minute	M_MIN_OVER_AVG	Distance km covered	Top Speed 
+DBJoueursSelections.csv
+	player data - club team & natl team
+2010DistanceSpeed.csv
+	similar to FIFAWorldCup2014Distance.csv but for 2010 & data elements a little different
