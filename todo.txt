@@ -1,0 +1,14 @@
+The Strategy 
+
+Data Science project
+github: both of us run it and use it to share files and code
+TODO: github client install for Jim -> emailed github support
+TODO: natalie figure out how to update fork with master
+TODO: jim send natalie URL for new github project
+TODO: organize files
+
+J brainstorm things that I would like to learn from the data:
+	normalize speed scale 1 - 10 and square distance from the mean
+	normalize meters / ,minute and do the same
+	add attacking stats: goals, shots, assists, takeons
+	

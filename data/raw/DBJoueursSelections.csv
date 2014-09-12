@@ -1,0 +1,739 @@
+Group,Team,FIRST_NAME,KEY_NAME,KEY_,UID,Position,Age,Selections,Championnat,Club,Championnat domestique,# Days present,Coach,Coach Origin,Date Annonce,No.,ID,FULL_NAME,FIFA Team Rank
+G,USA,Timothy,CHANDLER,CHAN,CHANUSA,2. Defenseur,24,12,GER,1. FC Nurnberg,NON,31,Jurgen Klinsmann,GER,22-mai,21,682,Timothy Chandler,13
+E,SUI,Josip,DRMIC,DRMI,DRMISUI,4. Attaquant,21,6,GER,1. FC Nurnberg,NON,32,Ottmar Hitzfeld,GER,13-mai,19,366,Josip Drmic,6
+C,JPN,Makoto,HASEBE,HASE,HASEJPN,3. Milieu,30,78,GER,1. FC Nurnberg,NON,26,Alberto Zaccheroni,ITA,12-mai,17,440,Makoto Hasebe (c),46
+C,JPN,Hiroshi,KIYOTAKE,KIYO,KIYOJPN,3. Milieu,24,25,GER,1. FC Nurnberg,NON,26,Alberto Zaccheroni,ITA,12-mai,8,283,Hiroshi Kiyotake,46
+C,JPN,Yuya,OSAKO,OSAK,OSAKJPN,4. Attaquant,24,8,GER,1860 Munchen,NON,26,Alberto Zaccheroni,ITA,12-mai,18,735,Yuya Osako,46
+G,USA,Fabian,JOHNSON,JOHN,JOHNUSA,2. Defenseur,26,21,GER,1899 Hoffenheim,NON,31,Jurgen Klinsmann,GER,22-mai,23,212,Fabian Johnson,13
+F,BIH,Sejad,SALIHOVIC,SALI,SALIBIH,3. Milieu,29,42,GER,1899 Hoffenheim,NON,26,Safet Susic,BIH,2-juin,23,635,Sejad Salihovic,21
+D,CRC,Michael,BARRANTES,BARR,BARRCRC,3. Milieu,30,51,Norvege,Aalesund,NON,37,Jorge Luis Pinto,COL,31-mai,11,504,Michael Barrantes,28
+D,ITA,Ignazio,ABATE,ABAT,ABATITA,2. Defenseur,27,19,ITA,AC Milan,OUI,26,Cesare Prandelli,ITA,1-juin,7,292,Ignazio Abate,9
+D,ITA,Mario,BALOTELLI,BALO,BALOITA,4. Attaquant,23,29,ITA,AC Milan,OUI,26,Cesare Prandelli,ITA,1-juin,9,455,Mario Balotelli,9
+B,NED,Nigel,DE JONG,DE J,DE JNED,3. Milieu,29,71,ITA,AC Milan,NON,45,Louis van Gaal,NED,31-mai,8,535,Nigel de Jong,15
+D,ITA,Mattia,DE SCIGLIO,DE S,DE SITA,2. Defenseur,21,10,ITA,AC Milan,OUI,26,Cesare Prandelli,ITA,1-juin,2,484,Mattia De Sciglio,9
+G,GHA,Michael,ESSIEN,ESSI,ESSIGHA,3. Milieu,31,57,ITA,AC Milan,NON,26,James Kwesi Appiah,GHA,1-juin,5,506,Michael Essien,37
+C,JPN,Keisuke,HONDA,HOND,HONDJPN,3. Milieu,27,55,ITA,AC Milan,NON,26,Alberto Zaccheroni,ITA,12-mai,4,384,Keisuke Honda,46
+G,GHA,Sulley,MUNTARI,MUNT,MUNTGHA,3. Milieu,29,81,ITA,AC Milan,NON,26,James Kwesi Appiah,GHA,1-juin,11,669,Sulley Muntari,37
+C,COL,Cristian,ZAPATA,ZAPA,ZAPACOL,2. Defenseur,27,24,ITA,AC Milan,NON,36,Jose Pekerman,ARG,2-juin,2,131,Cristian Zapata,8
+H,ALG,Rafik,HALLICHE,HALL,HALLALG,2. Defenseur,27,28,POR,Academica,NON,29,Vahid Halilhodzic,BIH,2-juin,5,582,Rafik Halliche,22
+B,AUS,Eugene,GALEKOVIC,GALE,GALEAUS,1. Gardien,32,8,AUS,Adelaide United,OUI,26,Ange Postecoglou,AUS,3-juin,18,207,Eugene Galekovic,62
+G,GHA,Steven,ADAMS,ADAM,ADAMGHA,1. Gardien,24,7,GHA,Aduana Stars,OUI,26,James Kwesi Appiah,GHA,1-juin,1,664,Steven Adams,37
+D,CRC,Celso,BORGES,BORG,BORGCRC,3. Milieu,26,63,Suede,AIK,NON,37,Jorge Luis Pinto,COL,31-mai,5,109,Celso Borges,28
+H,ALG,Mehdi,MOSTEFA,MOST,MOSTALG,3. Milieu,30,22,FRA,Ajaccio,NON,29,Vahid Halilhodzic,BIH,2-juin,22,497,Mehdi Mostefa,22
+A,MEX,Guillermo,OCHOA,OCHO,OCHOMEX,1. Gardien,28,59,FRA,Ajaccio,NON,32,Miguel Herrera,MEX,9-mai,13,267,Guillermo Ochoa,20
+B,NED,Daley,BLIND,BLIN,BLINNED,2. Defenseur,24,12,NED,Ajax,OUI,45,Louis van Gaal,NED,31-mai,5,134,Daley Blind,15
+B,NED,Jasper,CILLESSEN,CILL,CILLNED,1. Gardien,25,8,NED,Ajax,OUI,45,Louis van Gaal,NED,31-mai,1,316,Jasper Cillessen,15
+B,NED,Joel,VELTMAN,VELT,VELTNED,2. Defenseur,22,2,NED,Ajax,OUI,45,Louis van Gaal,NED,31-mai,13,340,Joel Veltman,15
+E,ECU,Segundo,CASTILLO,CAST,CASTECU,3. Milieu,32,81,Saudi Arabia,Al Hilal,NON,26,Reinaldo Rueda,ECU,2-juin,14,634,Segundo Castillo,26
+H,KOR,Kwak,TAE-HWI,TAE-,TAE-KOR,2. Defenseur,32,34,Saudi Arabia,Al Hilal,NON,25,Hong Myung-Bo,KOR,8-mai,4,407,Kwak Tae-Hwi,57
+E,ECU,Felipe,CAICEDO,CAIC,CAICECU,4. Attaquant,25,49,UAE,Al Jazira,NON,26,Reinaldo Rueda,ECU,2-juin,11,221,Felipe Caicedo,26
+F,IRN,Javad,NEKOUNAM,NEKO,NEKOIRN,3. Milieu,33,139,Kuwait,Al Kuwait,NON,25,Carlos Queiroz,POR,1-juin,6,317,Javad Nekounam (c),43
+G,GHA,Asamoah,GYAN,GYAN,GYANGHA,4. Attaquant,28,78,UAE,Al-Ain,NON,26,James Kwesi Appiah,GHA,1-juin,3,66,Asamoah Gyan (c),37
+D,CRC,Johnny,ACOSTA,ACOS,ACOSCRC,2. Defenseur,30,27,CRC,Alajuelense,OUI,37,Jorge Luis Pinto,COL,31-mai,2,345,Johnny Acosta,28
+E,HON,Jerry,PALACIOS,PALA,PALAHON2,4. Attaquant,32,23,CRC,Alajuelense,NON,26,Luis Fernando Suarez,COL,5-mai,9,331,Jerry Palacios,33
+D,CRC,Patrick,PEMBERTON,PEMB,PEMBCRC,1. Gardien,32,21,CRC,Alajuelense,OUI,37,Jorge Luis Pinto,COL,31-mai,18,563,Patrick Pemberton,28
+B,AUS,Mark,BRESCIANO,BRES,BRESAUS,3. Milieu,34,74,Qatar,Al-Gharafa,NON,26,Ange Postecoglou,AUS,3-juin,23,461,Mark Bresciano,62
+F,NGA,Ramon,AZEEZ,AZEE,AZEENGA,3. Milieu,21,1,ESP,Almeria,NON,30,Stephen Keshi,NGA,2-juin,15,586,Ramon Azeez,44
+A,MEX,Paul,AGUILAR,AGUI,AGUIMEX,2. Defenseur,28,30,MEX,America,OUI,32,Miguel Herrera,MEX,9-mai,22,564,Paul Aguilar,20
+A,MEX,Francisco Jvr, RODRIGUEZ,RODR,RODRMEX,2. Defenseur,32,95,MEX,America,OUI,32,Miguel Herrera,MEX,9-mai,2,228,Francisco Javier Rodriguez,20
+A,MEX,Raul,JIMENEZ,JIME,JIMEMEX,4. Attaquant,23,25,MEX,America,OUI,32,Miguel Herrera,MEX,9-mai,9,591,Raul Jimenez,20
+A,MEX,Miguel,LAYUN,LAYU,LAYUMEX,2. Defenseur,25,15,MEX,America,OUI,32,Miguel Herrera,MEX,9-mai,7,513,Miguel Layun,20
+E,HON,Andy,NAJAR,NAJA,NAJAHON,3. Milieu,21,16,BEL,Anderlecht,NON,26,Luis Fernando Suarez,COL,5-mai,21,53,Andy Najar,33
+H,BEL,Anthony,VANDEN BORRE,VAND,VANDBEL,2. Defenseur,26,25,BEL,Anderlecht,OUI,34,Marc Wilmots,BEL,2-juin,21,57,Anthony Vanden Borre,11
+A,CMR,Eyong,ENOH,ENOH,ENOHCMR,3. Milieu,28,38,Turkey,Antalyaspor,NON,26,Volker Finke,GER,2-juin,18,209,Eyong Enoh,56
+H,RUS,Andrey,ESHCHENKO,ESHC,ESHCRUS,2. Defenseur,30,11,RUS,Anzhi Makhachkala,OUI,25,Fabio Capello,ITA,2-juin,22,52,Andrey Yeshchenko,19
+B,ESP,Santi,CAZORLA,CAZO,CAZOESP,3. Milieu,29,64,ENG,Arsenal,NON,26,Vicente del Bosque,ESP,31-mai,20,628,Santi Cazorla,1
+E,FRA,Olivier,GIROUD,GIRO,GIROFRA,4. Attaquant,27,29,ENG,Arsenal,NON,35,Didier Deschamps,FRA,13-mai,9,544,Olivier Giroud,17
+E,FRA,Laurent,KOSCIELNY,KOSC,KOSCFRA,2. Defenseur,28,17,ENG,Arsenal,NON,35,Didier Deschamps,FRA,13-mai,21,411,Laurent Koscielny,17
+G,GER,Per,MERTESACKER,MERT,MERTGER,2. Defenseur,29,97,ENG,Arsenal,NON,43,Joachim Low,GER,2-juin,17,572,Per Mertesacker,2
+D,ENG,Alex,OXLADE-CHAMBERLAIN,OXLA,OXLAENG,3. Milieu,20,14,ENG,Arsenal,OUI,26,Roy Hodgson,ENG,12-mai,15,28,Alex Oxlade-Chamberlain,10
+G,GER,Mesut,OZIL,OZIL,OZILGER,3. Milieu,25,54,ENG,Arsenal,NON,43,Joachim Low,GER,2-juin,8,501,Mesut Özil,2
+G,GER,Lukas,PODOLSKI,PODO,PODOGER,4. Attaquant,29,113,ENG,Arsenal,NON,43,Joachim Low,GER,2-juin,10,435,Lukas Podolski,2
+E,FRA,Bacary,SAGNA,SAGN,SAGNFRA,2. Defenseur,31,40,ENG,Arsenal,NON,35,Didier Deschamps,FRA,13-mai,15,77,Bacary Sagna,17
+H,BEL,Thomas,VERMAELEN,VERM,VERMBEL,2. Defenseur,28,48,ENG,Arsenal,NON,34,Marc Wilmots,BEL,2-juin,3,678,Thomas Vermaelen,11
+D,ENG,Jack,WILSHERE,WILS,WILSENG,3. Milieu,22,16,ENG,Arsenal,OUI,26,Roy Hodgson,ENG,12-mai,7,305,Jack Wilshere,10
+F,NGA,Juwon,OSHANIWA,OSHA,OSHANGA,2. Defenseur,23,10,Israel,Ashdod,NON,30,Stephen Keshi,NGA,2-juin,13,381,Juwon Oshaniwa,44
+G,USA,Brad,GUZAN,GUZA,GUZAUSA,1. Gardien,29,25,ENG,Aston Villa,NON,31,Jurgen Klinsmann,GER,22-mai,12,92,Brad Guzan,13
+B,NED,Ron,VLAAR,VLAA,VLAANED,2. Defenseur,29,24,ENG,Aston Villa,NON,45,Louis van Gaal,NED,31-mai,2,612,Ron Vlaar,15
+B,CHI,Carlos,CARMONA,CARM,CARMCHI,3. Milieu,27,44,ITA,Atalanta,NON,31,Jorge Sampaoli,ARG,1-juin,6,101,Carlos Carmona,14
+B,AUS,James,TROISI,TROI,TROIAUS,3. Milieu,25,11,ITA,Atalanta,NON,26,Ange Postecoglou,AUS,3-juin,14,312,James Troisi,62
+C,COL,Mario,YEPES,YEPE,YEPECOL,2. Defenseur,38,98,ITA,Atalanta,NON,36,Jose Pekerman,ARG,2-juin,3,460,Mario Yepes (c),8
+E,ECU,Michael,ARROYO,ARRO,ARROECU,3. Milieu,27,20,MEX,Atlante,NON,26,Reinaldo Rueda,ECU,2-juin,15,502,Michael Arroyo,26
+H,BEL,Toby,ALDERWEIRELD,ALDE,ALDEBEL,2. Defenseur,25,34,ESP,Atletico Madrid,NON,34,Marc Wilmots,BEL,2-juin,2,684,Toby Alderweireld,11
+B,ESP,Diego,COSTA,COST,COSTESP,4. Attaquant,25,2,ESP,Atletico Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,19,164,Diego Costa,1
+H,BEL,Thibaut,COURTOIS,COUR,COURBEL,1. Gardien,22,16,ESP,Atletico Madrid,NON,34,Marc Wilmots,BEL,2-juin,1,676,Thibaut Courtois,11
+D,URU,Diego,GODIN,GODI,GODIURU,2. Defenseur,28,76,ESP,Atletico Madrid,NON,30,Oscar Tabarez,URU,31-mai,3,166,Diego Godin,7
+B,ESP,Juanfran,JUANFRAN,JUAN,JUANESP,2. Defenseur,29,8,ESP,Atletico Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,5,375,Juanfran,1
+B,ESP,Koke,KOKE,KOKE,KOKEESP,3. Milieu,22,8,ESP,Atletico Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,17,399,Koke,1
+D,URU,Jose Ma,GIMENEZ,GIME,GIMEURU,2. Defenseur,19,5,ESP,Atletico Madrid,NON,30,Oscar Tabarez,URU,31-mai,19,361,Jose Maria Gimenez,7
+D,URU,Cristian,RODRIGUEZ,RODR,RODRURU,3. Milieu,28,72,ESP,Atletico Madrid,NON,30,Oscar Tabarez,URU,31-mai,7,130,Cristian Rodriguez,7
+B,ESP,David,VILLA,VILL,VILLESP,4. Attaquant,32,96,ESP,Atletico Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,7,155,David Villa,1
+A,BRA,Jô,JO,JO,JOBRA,4. Attaquant,27,17,BRA,Atletico Mineiro,OUI,46,Luiz Felipe Scolari,BRA,2-juin,21,333,Jô,3
+A,BRA,Victor,VICTOR,VICT,VICTBRA,1. Gardien,31,6,BRA,Atletico Mineiro,OUI,46,Luiz Felipe Scolari,BRA,2-juin,22,699,Victor,3
+C,COL,Alexander,MEJIA,MEJI,MEJICOL,3. Milieu,25,8,COL,Atletico Nacional,OUI,36,Jose Pekerman,ARG,2-juin,15,32,Alexander Mejia,8
+B,NED,Paul,VERHAEGH,VERH,VERHNED,2. Defenseur,30,2,GER,Augsburg,NON,45,Louis van Gaal,NED,31-mai,12,566,Paul Verhaegh,15
+B,AUS,James,HOLLAND,HOLL,HOLLAUS,3. Milieu,25,14,Autriche,Autriche Wien,NON,26,Ange Postecoglou,AUS,3-juin,16,309,James Holland,62
+G,USA,Aron,JOHANNSSON,JOHA,JOHAUSA,4. Attaquant,23,8,NED,AZ,NON,31,Jurgen Klinsmann,GER,22-mai,9,63,Aron Johannsson,13
+B,ESP,Jordi,ALBA,ALBA,ALBAESP,2. Defenseur,25,26,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,18,351,Jordi Alba,1
+A,BRA,Dani,ALVES,ALVE,ALVEBRA,2. Defenseur,31,75,ESP,Barcelona,NON,46,Luiz Felipe Scolari,BRA,2-juin,2,136,Dani Alves,3
+E,ECU,Maximo,BANGUERA,BANG,BANGECU,1. Gardien,28,24,ECU,Barcelona SC,OUI,26,Reinaldo Rueda,ECU,2-juin,1,492,Maximo Banguera,26
+B,ESP,Sergio,BUSQUETS,BUSQ,BUSQESP,3. Milieu,25,65,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,16,643,Sergio Busquets,1
+E,ECU,Juan CARLOS ,PAREDES,PARE,PAREECU,2. Defenseur,26,37,ECU,Barcelona SC,OUI,26,Reinaldo Rueda,ECU,2-juin,4,370,Juan Carlos Paredes,26
+B,ESP,Cesc,FABREGAS,FABR,FABRESP,3. Milieu,27,89,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,10,111,Cesc Fabregas,1
+B,ESP,Andres,INIESTA,INIE,INIEESP,3. Milieu,30,97,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,6,51,Andres Iniesta,1
+F,ARG,Javier,MASCHERANO,MASC,MASCARG,3. Milieu,29,96,ESP,Barcelona,NON,44,Alejandro Sabella,ARG,2-juin,14,321,Javier Mascherano,5
+F,ARG,Lionel,MESSI,MESS,MESSARG,4. Attaquant,26,84,ESP,Barcelona,NON,44,Alejandro Sabella,ARG,2-juin,10,421,Lionel Messi (c),5
+A,BRA,Neymar,NEYMAR,NEYM,NEYMBRA,4. Attaquant,22,49,ESP,Barcelona,NON,46,Luiz Felipe Scolari,BRA,2-juin,10,530,Neymar,3
+B,ESP,Pedro,RODRIGUEZ,RODR,RODRESP,4. Attaquant,26,40,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,11,568,Pedro,1
+B,ESP,Gerard,PIQUE,PIQU,PIQUESP,2. Defenseur,27,60,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,3,245,Gerard Pique,1
+B,CHI,Alexis,SANCHEZ,SANC,SANCCHI,4. Attaquant,25,67,ESP,Barcelona,NON,31,Jorge Sampaoli,ARG,1-juin,7,34,Alexis Sanchez,14
+E,ECU,Luis,SARITAMA,SARI,SARIECU,3. Milieu,30,48,ECU,Barcelona SC,OUI,26,Reinaldo Rueda,ECU,2-juin,19,431,Luis Saritama,26
+A,CMR,Alex,SONG,SONG,SONGCMR,3. Milieu,26,47,ESP,Barcelona,NON,26,Volker Finke,GER,2-juin,6,29,Alex Song,56
+B,ESP,Xavi,HERNANDEZ,HERN,HERNESP,3. Milieu,34,132,ESP,Barcelona,OUI,26,Vicente del Bosque,ESP,31-mai,8,720,Xavi,1
+B,CHI,Marcelo,DIAZ,DIAZ,DIAZCHI,3. Milieu,27,21,SUI,Basel,NON,31,Jorge Sampaoli,ARG,1-juin,21,447,Marcelo Diaz,14
+C,CIV,Serey,DIE,DIE,DIECIV,3. Milieu,29,6,SUI,Basel,NON,26,Sabri Lamouchi,FRA,1-juin,20,638,Serey Die,23
+E,SUI,Fabian,SCHAER,SCHA,SCHASUI,2. Defenseur,22,5,SUI,Basel,OUI,32,Ottmar Hitzfeld,GER,13-mai,22,214,Fabian Schär,6
+C,CIV,Giovanni,SIO,SIO,SIOCIV,4. Attaquant,25,7,SUI,Basel,NON,26,Sabri Lamouchi,FRA,1-juin,21,257,Giovanni Sio,23
+E,SUI,Yann,SOMMER,SOMM,SOMMSUI,1. Gardien,25,6,SUI,Basel,OUI,32,Ottmar Hitzfeld,GER,13-mai,12,723,Yann Sommer,6
+E,SUI,Valentin,STOCKER,STOC,STOCSUI,3. Milieu,25,23,SUI,Basel,OUI,32,Ottmar Hitzfeld,GER,13-mai,14,692,Valentin Stocker,6
+E,FRA,Mickael,LANDRUAE,LAND,LANDFRA,1. Gardien,35,11,FRA,Bastia,OUI,35,Didier Deschamps,FRA,13-mai,23,511,Mickael LandrUAE,17
+A,MEX,Andres,GUARDADO,GUAR,GUARMEX,2. Defenseur,27,104,GER,Bayer Leverkusen,NON,32,Miguel Herrera,MEX,9-mai,18,50,Andres Guardado,20
+H,KOR,Son,HEUNG-MIN,HEUN,HEUNKOR,4. Attaquant,21,24,GER,Bayer Leverkusen,NON,25,Hong Myung-Bo,KOR,8-mai,9,657,Son Heung-Min,57
+F,BIH,Emir,SPAHIC,SPAH,SPAHBIH,2. Defenseur,33,74,GER,Bayer Leverkusen,NON,26,Safet Susic,BIH,2-juin,4,197,Emir Spahic (c),21
+G,GER,Jerôme,BOATENG,BOAT,BOATGER,2. Defenseur,25,38,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,20,329,Jerôme Boateng,2
+A,BRA,Dante,DANTE,DANT,DANTBRA,2. Defenseur,30,12,GER,Bayern Munich,NON,46,Luiz Felipe Scolari,BRA,2-juin,13,146,Dante,3
+G,GER,Mario,GOETZE,GOET,GOETGER,3. Milieu,22,28,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,19,457,Mario Götze,2
+G,USA,Julian,GREEN,GREE,GREEUSA,3. Milieu,19,2,GER,Bayern Munich,NON,31,Jurgen Klinsmann,GER,22-mai,16,377,Julian Green,13
+G,GER,Toni,KROOS,KROO,KROOGER,3. Milieu,24,43,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,18,686,Toni Kroos,2
+G,GER,Philipp,LAHM,LAHM,LAHMGER,2. Defenseur,30,105,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,16,576,Philipp Lahm (c),2
+G,GER,Thomas,MULLER,MULL,MUELGER,3. Milieu,24,48,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,13,677,Thomas Müller,2
+A,CRO,Mario,MANDZUKIC,MAND,MANDCRO,4. Attaquant,28,50,GER,Bayern Munich,NON,27,Niko Kovac,CRO,31-mai,17,458,Mario Mandzukic,18
+B,ESP,Javi,MARTINEZ,MART,MARTESP,3. Milieu,25,17,GER,Bayern Munich,NON,26,Vicente del Bosque,ESP,31-mai,4,318,Javi Martinez,1
+G,GER,Manuel,NEUER,NEUE,NEUEGER,1. Gardien,28,45,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,1,444,Manuel Neuer,2
+B,NED,Arjen,ROBBEN,ROBB,ROBBNED,3. Milieu,30,75,GER,Bayern Munich,NON,45,Louis van Gaal,NED,31-mai,11,62,Arjen Robben,15
+G,GER,Bastian,SCHWEINSTEIGER,SCHW,SCHWGER,3. Milieu,29,101,GER,Bayern Munich,OUI,43,Joachim Low,GER,2-juin,7,80,Bastian Schweinsteiger,2
+E,SUI,Xherdan,SHAQIRI,SHAQ,SHAQSUI,3. Milieu,22,32,GER,Bayern Munich,NON,32,Ottmar Hitzfeld,GER,13-mai,23,721,Xherdan Shaqiri,6
+H,BEL,Daniel,VAN BUYTEN,VAN,VANBEL,2. Defenseur,36,79,GER,Bayern Munich,NON,34,Marc Wilmots,BEL,2-juin,15,141,Daniel Van Buyten,11
+H,KOR,Ha,DAE-SUNG,DAE-,DAE-KOR,3. Milieu,29,13,China,Beijing Guoan,NON,25,Hong Myung-Bo,KOR,8-mai,8,268,Ha Dae-Sung,57
+G,POR,Andre,ALMEIDA,ALME,ALMEPOR,2. Defenseur,23,3,POR,Benfica,OUI,26,Paulo Bento,POR,19-mai,19,43,Andre Almeida,4
+G,POR,Ruben,AMORIM,AMOR,AMORPOR,3. Milieu,29,11,POR,Benfica,OUI,26,Paulo Bento,POR,19-mai,20,617,Ruben Amorim,4
+F,ARG,Ezequiel,GARAY,GARA,GARAARG,2. Defenseur,27,18,POR,Benfica,NON,44,Alejandro Sabella,ARG,2-juin,2,210,Ezequiel Garay,5
+F,ARG,Enzo,PEREZ,PERE,PEREARG,3. Milieu,28,5,POR,Benfica,NON,44,Alejandro Sabella,ARG,2-juin,8,201,Enzo Perez,5
+D,URU,Maxi,PEREIRA,PERE,PEREURU,2. Defenseur,29,89,POR,Benfica,NON,30,Oscar Tabarez,URU,31-mai,16,489,Maxi Pereira,7
+G,POR,Hugo,ALMEIDA,ALME,ALMEPOR,4. Attaquant,30,54,Turkey,Besiktas,NON,26,Paulo Bento,POR,19-mai,9,287,Hugo Almeida,4
+G,USA,Jermaine,JONES,JONE,JONEUSA,3. Milieu,32,41,Turkey,Besiktas,NON,31,Jurgen Klinsmann,GER,22-mai,13,328,Jermaine Jones,13
+A,CMR,Dany,NOUNKEU,NOUN,NOUNCMR,2. Defenseur,28,16,Turkey,Besiktas,NON,26,Volker Finke,GER,2-juin,5,147,Dany Nounkeu,56
+F,ARG,Fernando,GAGO,GAGO,GAGOARG,3. Milieu,28,47,ARG,Boca Juniors,OUI,44,Alejandro Sabella,ARG,2-juin,5,224,Fernando Gago,5
+F,ARG,Agustin,ORION,ORIO,ORIOARG,1. Gardien,32,3,ARG,Boca Juniors,OUI,44,Alejandro Sabella,ARG,2-juin,12,13,Agustin Orion,5
+C,GRE,Lazaros,CHRISTODOULOPOULOS,CHRI,CHRIGRE,3. Milieu,27,19,ITA,Bologna,NON,31,Fernando Santos,POR,19-mai,16,412,Lazaros Christodoulopoulos,12
+C,GRE,Panagiotis,KONE,KONE,KONEGRE,3. Milieu,26,16,ITA,Bologna,NON,31,Fernando Santos,POR,19-mai,8,557,Panagiotis Kone,12
+D,URU,Diego,PEREZ,PERE,PEREURU,3. Milieu,34,89,ITA,Bologna,NON,30,Oscar Tabarez,URU,31-mai,15,168,Diego Perez,7
+H,KOR,Lee,CHUNG-YONG,CHUN,CHUNKOR,3. Milieu,25,54,ENG,Bolton Wanderers,NON,25,Hong Myung-Bo,KOR,8-mai,17,414,Lee Chung-Yong,57
+F,BIH,Asmir,AVDUKIC,AVDU,AVDUBIH,1. Gardien,33,3,BIH,Borac Banja,OUI,26,Safet Susic,BIH,2-juin,22,68,Asmir Avdukic,21
+A,CMR,Landry,N'GUEMO,N'GU,N'GUCMR,3. Milieu,28,40,FRA,Bordeaux,NON,26,Volker Finke,GER,2-juin,7,409,Landry N'Guemo,56
+G,GER,Erik,DURM,DURM,DURMGER,2. Defenseur,22,1,GER,Borussia Dortmund,OUI,43,Joachim Low,GER,2-juin,15,202,Erik Durm,2
+G,GER,Kevin,GROßKREUTZ,GRO�,GRO�GER,2. Defenseur,25,4,GER,Borussia Dortmund,OUI,43,Joachim Low,GER,2-juin,2,387,Kevin Großkreutz,2
+G,GER,Mats,HUMMELS,HUMM,HUMMGER,2. Defenseur,25,29,GER,Borussia Dortmund,OUI,43,Joachim Low,GER,2-juin,5,478,Mats Hummels,2
+B,AUS,Mitchell,LANGERAK,LANG,LANGAUS,1. Gardien,25,3,GER,Borussia Dortmund,NON,26,Ange Postecoglou,AUS,3-juin,12,520,Mitchell Langerak,62
+C,GRE,Sokratis,PAPASTATHOPOULOS,PAPA,PAPAGRE,2. Defenseur,25,47,GER,Borussia Dortmund,NON,31,Fernando Santos,POR,19-mai,19,655,Sokratis Papastathopoulos,12
+G,GER,Roman,WEIDENFELLER,WEID,WEIDGER,1. Gardien,33,2,GER,Borussia Dortmund,OUI,43,Joachim Low,GER,2-juin,22,610,Roman Weidenfeller,2
+G,GER,Christoph,KRAMER,KRAM,KRAMGER,3. Milieu,23,2,GER,Borussia Monchengladbach,OUI,43,Joachim Low,GER,2-juin,23,122,Christoph Kramer,2
+E,SUI,Granit,XHAKA,XHAK,XHAKSUI,3. Milieu,21,25,GER,Borussia Monchengladbach,NON,32,Ottmar Hitzfeld,GER,13-mai,10,266,Granit Xhaka,6
+A,BRA,Jefferson,JEFFERSON,JEFF,JEFFBRA,1. Gardien,31,9,BRA,Botafogo,OUI,46,Luiz Felipe Scolari,BRA,2-juin,1,325,Jefferson,3
+D,URU,Nicolas,LODEIRO,LODE,LODEURU,3. Milieu,25,26,BRA,Botafogo,NON,30,Oscar Tabarez,URU,31-mai,14,532,Nicolas Lodeiro,7
+G,POR,eder,EDER,EDER,EDERPOR,4. Attaquant,26,7,POR,Braga,OUI,26,Paulo Bento,POR,19-mai,11,180,eder,4
+G,POR,Eduardo,EDUARDO,EDUA,EDUAPOR,1. Gardien,31,33,POR,Braga,OUI,26,Paulo Bento,POR,19-mai,1,188,Eduardo,4
+G,POR,Rafa,SILVA,SILV,SILVPOR,3. Milieu,21,2,POR,Braga,OUI,26,Paulo Bento,POR,19-mai,15,580,Rafa Silva,4
+B,AUS,Ivan,FRANJIC,FRAN,FRANAUS,2. Defenseur,26,9,AUS,Brisbane Roar,OUI,26,Ange Postecoglou,AUS,3-juin,2,299,Ivan Franjic,62
+B,AUS,Matt,MCKAY,MCKA,MCKAAUS,3. Milieu,31,47,AUS,Brisbane Roar,OUI,26,Ange Postecoglou,AUS,3-juin,17,480,Matt McKay,62
+H,KOR,Lee,BUM-YOUNG,BUM-,BUM-KOR,1. Gardien,25,0,KOR,Busan I'Park,OUI,25,Hong Myung-Bo,KOR,8-mai,23,413,Lee Bum-Young,57
+C,COL,Victor,IBARBO,IBAR,IBARCOL,3. Milieu,24,9,ITA,Cagliari,NON,36,Jose Pekerman,ARG,2-juin,14,701,Victor Ibarbo,8
+B,CHI,Mauricio,PINILLA,PINI,PINICHI,4. Attaquant,30,27,ITA,Cagliari,NON,31,Jorge Sampaoli,ARG,1-juin,9,487,Mauricio Pinilla,14
+H,KOR,Kim,BO-KYUNG,BO-K,BO-KKOR,3. Milieu,24,27,ENG,Cardiff City,NON,25,Hong Myung-Bo,KOR,8-mai,7,393,Kim Bo-Kyung,57
+B,CHI,Gary,MEDEL,MEDE,MEDECHI,2. Defenseur,26,61,ENG,Cardiff City,NON,31,Jorge Sampaoli,ARG,1-juin,17,239,Gary Medel,14
+D,CRC,Randall,BRENES,BREN,BRENCRC,4. Attaquant,30,37,CRC,Cartagines,OUI,37,Jorge Luis Pinto,COL,31-mai,14,587,Randall Brenes,28
+F,ARG,Mariano,ANDUJAR,ANDU,ANDUARG,1. Gardien,30,10,ITA,Catania,NON,44,Alejandro Sabella,ARG,2-juin,21,454,Mariano Andujar,5
+F,NGA,Godfrey,OBOABONA,OBOA,OBOANGA,2. Defenseur,23,35,Turkey,caykur Rizespor,NON,30,Stephen Keshi,NGA,2-juin,14,259,Oboabona,44
+C,CIV,Ousmane,VIERA,VIER,VIERCIV,2. Defenseur,27,3,Turkey,caykur Rizespor,NON,26,Sabri Lamouchi,FRA,1-juin,2,553,Ousmane Viera,23
+F,ARG,Augusto,FERNANDEZ,FERN,FERNARG,3. Milieu,28,7,ESP,Celta Vigo,NON,44,Alejandro Sabella,ARG,2-juin,13,71,Augusto Fernandez,5
+B,CHI,Fabian,ORELLANA,OREL,ORELCHI,3. Milieu,28,26,ESP,Celta Vigo,NON,31,Jorge Sampaoli,ARG,1-juin,14,213,Fabian Orellana,14
+F,NGA,Efe,AMBROSE,AMBR,AMBRNGA,2. Defenseur,25,36,Scotland,Celtic,NON,30,Stephen Keshi,NGA,2-juin,5,190,Efe Ambrose,44
+D,ENG,Fraser,FORSTER,FORS,FORSENG,1. Gardien,26,1,Scotland,Celtic,NON,26,Roy Hodgson,ENG,12-mai,22,232,Fraser Forster,10
+E,HON,Emilio,IZAGUIRRE,IZAG,IZAGHON,2. Defenseur,28,67,Scotland,Celtic,NON,26,Luis Fernando Suarez,COL,5-mai,7,196,Emilio Izaguirre,33
+C,GRE,Giorgos,SAMARAS,SAMA,SAMAGRE2,4. Attaquant,29,74,Scotland,Celtic,NON,31,Fernando Santos,POR,19-mai,7,254,Giorgos Samaras,12
+F,NGA,Michael,UCHEBO,UCHE,UCHENGA,4. Attaquant,24,3,BEL,Cercle Brugge,NON,30,Stephen Keshi,NGA,2-juin,20,508,Michael Uchebo,44
+D,URU,Diego,FORLAN,FORL,FORLURU,4. Attaquant,35,109,JPN,Cerezo Osaka,NON,30,Oscar Tabarez,URU,31-mai,10,165,Diego Forlan,7
+C,JPN,Yoichiro,KAKITANI,KAKI,KAKIJPN,4. Attaquant,24,11,JPN,Cerezo Osaka,OUI,26,Alberto Zaccheroni,ITA,12-mai,11,729,Yoichiro Kakitani,46
+C,JPN,Hotaru,YAMAGUCHI,YAMA,YAMAJPN,3. Milieu,23,11,JPN,Cerezo Osaka,OUI,26,Alberto Zaccheroni,ITA,12-mai,16,286,Hotaru Yamaguchi,46
+F,IRN,Reza,GHOOCHANNEJHAD,GHOO,GHOOIRN,4. Attaquant,26,13,ENG,Charlton Athletic,NON,25,Carlos Queiroz,POR,1-juin,16,596,Reza Ghoochannejhad,43
+B,ESP,Cesar,AZPILICUETA,AZPI,AZPIESP,2. Defenseur,24,6,ENG,Chelsea,NON,26,Vicente del Bosque,ESP,31-mai,22,110,Cesar Azpilicueta,1
+D,ENG,Gary,CAHILL,CAHI,CAHIENG,2. Defenseur,28,23,ENG,Chelsea,OUI,26,Roy Hodgson,ENG,12-mai,5,238,Gary Cahill,10
+A,CMR,Samuel,ETOO,ETOO,ETOOCMR,4. Attaquant,33,117,ENG,Chelsea,NON,26,Volker Finke,GER,2-juin,9,626,Samuel Eto'o (c),56
+H,BEL,Eden,HAZARD,HAZA,HAZABEL,3. Milieu,23,45,ENG,Chelsea,NON,34,Marc Wilmots,BEL,2-juin,10,179,Eden Hazard,11
+D,ENG,Frank,LAMPARD,LAMP,LAMPENG,3. Milieu,35,103,ENG,Chelsea,OUI,26,Roy Hodgson,ENG,12-mai,8,231,Frank Lampard,10
+A,BRA,David,LUIZ,LUIZ,LUIZBRA,2. Defenseur,27,36,ENG,Chelsea,NON,46,Luiz Felipe Scolari,BRA,2-juin,4,152,David Luiz,3
+F,NGA,John,OBI MIKEL,OBI,OBINGA,3. Milieu,27,59,ENG,Chelsea,NON,30,Stephen Keshi,NGA,2-juin,10,344,John Obi Mikel,44
+A,BRA,Oscar,OSCAR,OSCA,OSCABRA,3. Milieu,22,31,ENG,Chelsea,NON,46,Luiz Felipe Scolari,BRA,2-juin,11,548,Oscar,3
+A,BRA,Ramires,RAMIRES,RAMI,RAMIBRA,3. Milieu,27,42,ENG,Chelsea,NON,46,Luiz Felipe Scolari,BRA,2-juin,16,585,Ramires,3
+G,GER,Andre,SCHüRRLE,SCHU,SCHUGER,3. Milieu,23,32,ENG,Chelsea,NON,43,Joachim Low,GER,2-juin,9,45,Andre Schürrle,2
+B,ESP,Fernando,TORRES,TORR,TORRESP,4. Attaquant,30,107,ENG,Chelsea,NON,26,Vicente del Bosque,ESP,31-mai,9,226,Fernando Torres,1
+A,BRA,Willian,WILLIAN,WILL,WILLBRA,3. Milieu,25,7,ENG,Chelsea,NON,46,Luiz Felipe Scolari,BRA,2-juin,19,717,Willian,3
+E,HON,Marvin,CHAVEZ,CHAV,CHAVHON,3. Milieu,30,41,USA,Chivas USA,NON,26,Luis Fernando Suarez,COL,5-mai,17,467,Marvin Chavez,33
+H,ALG,Abdelmoumene,DJABOU,DJAB,DJABALG,3. Milieu,27,76,Tunisie,Club Africain,NON,29,Vahid Halilhodzic,BIH,2-juin,18,1,Abdelmoumene Djabou,22
+D,CRC,Oscar,DUARTE,DUAR,DUARCRC,2. Defenseur,25,11,BEL,Club Brugge,NON,37,Jorge Luis Pinto,COL,31-mai,6,550,Oscar Duarte,28
+B,AUS,Mathew,RYAN,RYAN,RYANAUS,1. Gardien,22,7,BEL,Club Brugge,NON,26,Ange Postecoglou,AUS,3-juin,1,474,Mathew Ryan,62
+B,CHI,Esteban,PAREDES,PARE,PARECHI,4. Attaquant,33,35,CHI,Colo Colo,OUI,31,Jorge Sampaoli,ARG,1-juin,22,206,Esteban Paredes,14
+B,CHI,Jose,PEDRO FUENZALIDA,PEDR,PEDRCHI,3. Milieu,29,23,CHI,Colo Colo,OUI,31,Jorge Sampaoli,ARG,1-juin,19,363,Jose Pedro Fuenzalida,14
+D,CRC,Waylon,FRANCIS,FRAN,FRANCRC,2. Defenseur,23,1,USA,Columbus Crew,NON,37,Jorge Luis Pinto,COL,31-mai,12,712,Waylon Francis,28
+D,CRC,Giancarlo,GONZALEZ,GONZ,GONZCRC,2. Defenseur,26,34,USA,Columbus Crew,NON,37,Jorge Luis Pinto,COL,31-mai,3,248,Giancarlo Gonzalez,28
+D,CRC,Christian,BOLANOS,BOLA,BOLACRC,3. Milieu,30,55,Danemark,Copenhagen,NON,37,Jorge Luis Pinto,COL,31-mai,7,119,Christian Bolanos,28
+A,CMR,Cedric,DJEUGOUE,DJEU,DJEUCMR,2. Defenseur,21,3,CMR,Coton Sport,OUI,26,Volker Finke,GER,2-juin,4,107,Cedric Djeugoue,56
+A,CMR,Loec,FEUDJOU,FEUD,FEUDCMR,1. Gardien,22,2,CMR,Coton Sport,OUI,26,Volker Finke,GER,2-juin,1,422,Loec Feudjou,56
+A,MEX,Jose,DE JESUS CORONA,DE J,DE JMEX,1. Gardien,33,34,MEX,Cruz Azul,OUI,32,Miguel Herrera,MEX,9-mai,1,357,Jose de Jesus Corona,20
+A,MEX,Marco,FABIAN,FABI,FABIMEX,3. Milieu,24,15,MEX,Cruz Azul,OUI,32,Miguel Herrera,MEX,9-mai,8,448,Marco Fabian,20
+E,ECU,Joao,ROJAS,ROJA,ROJAECU,3. Milieu,24,29,MEX,Cruz Azul,NON,26,Reinaldo Rueda,ECU,2-juin,9,336,Joao Rojas,26
+B,AUS,Mile,JEDINAK,JEDI,JEDIAUS,3. Milieu,29,44,ENG,Crystal Palace,NON,26,Ange Postecoglou,AUS,3-juin,15,517,Mile Jedinak (c),62
+H,ALG,Cedric,SI MOHAMED,SI M,SI MALG,1. Gardien,29,1,ALG,CS Constantine,OUI,29,Vahid Halilhodzic,BIH,2-juin,1,108,Cedric Si Mohamed,22
+H,RUS,Igor,AKINFEEV,AKIN,AKINRUS,1. Gardien,28,67,RUS,CSKA Moscow,OUI,25,Fabio Capello,ITA,2-juin,1,293,Igor Akinfeev,19
+H,RUS,Vasili,BEREZUTSKI,BERE,BERERUS,2. Defenseur,31,77,RUS,CSKA Moscow,OUI,25,Fabio Capello,ITA,2-juin,14,695,Vasili Berezutski,19
+H,RUS,Alan,DZAGOEV,DZAG,DZAGRUS,3. Milieu,23,31,RUS,CSKA Moscow,OUI,25,Fabio Capello,ITA,2-juin,10,16,Alan Dzagoev,19
+H,RUS,Sergei,IGNASHEVICH,IGNA,IGNARUS,2. Defenseur,34,95,RUS,CSKA Moscow,OUI,25,Fabio Capello,ITA,2-juin,4,640,Sergei Ignashevich,19
+F,NGA,Ahmed,MUSA,MUSA,MUSANGA,4. Attaquant,21,35,RUS,CSKA Moscow,NON,30,Stephen Keshi,NGA,2-juin,7,15,Ahmed Musa,44
+H,RUS,Georgi,SHCHENNIKOV,SHCH,SHCHRUS,2. Defenseur,23,3,RUS,CSKA Moscow,OUI,25,Fabio Capello,ITA,2-juin,3,243,Georgi Shchennikov,19
+H,ALG,Raes,M'BOLHI,M'BO,M'BOALG,1. Gardien,28,27,Bulgaria,CSKA Sofia,NON,29,Vahid Halilhodzic,BIH,2-juin,23,579,Raes M'Bolhi,22
+C,COL,Faryd,MONDRAGON,MOND,MONDCOL,1. Gardien,42,50,COL,Deportivo Cali,OUI,36,Jose Pekerman,ARG,2-juin,22,218,Faryd Mondragon,8
+H,ALG,El,ARBI HILLEL SOUDANI,ARBI,ARBIALG,4. Attaquant,26,21,CRO,Dinamo Zagreb,NON,29,Vahid Halilhodzic,BIH,2-juin,15,194,El Arbi Hillel Soudani,22
+A,CRO,Marcelo,BROZOVIC,BROZ,BROZCRO,3. Milieu,21,1,CRO,Dinamo Zagreb,OUI,27,Niko Kovac,CRO,31-mai,14,446,Marcelo Brozovic,18
+A,CRO,Domagoj,VIDA,VIDA,VIDACRO,2. Defenseur,25,23,Ukraine,Dynamo Kyiv,NON,27,Niko Kovac,CRO,31-mai,21,175,Domagoj Vida,18
+B,NED,Jeremain,LENS,LENS,LENSNED,4. Attaquant,26,22,Ukraine,Dynamo Kyiv,NON,45,Louis van Gaal,NED,31-mai,17,327,Jeremain Lens,15
+G,POR,Miguel,VELOSO,VELO,VELOPOR,3. Milieu,28,47,Ukraine,Dynamo Kyiv,NON,26,Paulo Bento,POR,19-mai,4,514,Miguel Veloso,4
+A,CRO,Ognjen,VUKOJEVIC,VUKO,VUKOCRO,3. Milieu,30,55,Ukraine,Dynamo Kyiv,NON,27,Niko Kovac,CRO,31-mai,8,540,Ognjen Vukojevic,18
+H,RUS,Igor,DENISOV,DENI,DENIRUS,3. Milieu,30,42,RUS,Dynamo Moscow,OUI,25,Fabio Capello,ITA,2-juin,7,294,Igor Denisov,19
+H,RUS,Vladimir,GRANAT,GRAN,GRANRUS,2. Defenseur,27,4,RUS,Dynamo Moscow,OUI,25,Fabio Capello,ITA,2-juin,13,708,Vladimir Granat,19
+H,RUS,Aleksei,IONOV,IONO,IONORUS,4. Attaquant,25,5,RUS,Dynamo Moscow,OUI,25,Fabio Capello,ITA,2-juin,18,25,Aleksei Ionov,19
+H,RUS,Aleksandr,KOKORIN,KOKO,KOKORUS,4. Attaquant,23,20,RUS,Dynamo Moscow,OUI,25,Fabio Capello,ITA,2-juin,9,23,Aleksandr Kokorin,19
+H,RUS,Aleksei,KOZLOV,KOZL,KOZLRUS,2. Defenseur,27,10,RUS,Dynamo Moscow,OUI,25,Fabio Capello,ITA,2-juin,2,26,Aleksei Kozlov,19
+E,ECU,Christian,NOBOA,NOBO,NOBOECU,3. Milieu,29,41,RUS,Dynamo Moscow,NON,26,Reinaldo Rueda,ECU,2-juin,6,120,Christian Noboa,26
+H,RUS,Yuri,ZHIRKOV,ZHIR,ZHIRRUS,4. Attaquant,30,59,RUS,Dynamo Moscow,OUI,25,Fabio Capello,ITA,2-juin,5,733,Yuri Zhirkov,19
+F,BIH,Ermin,BICAKCIC,BICA,BICABIH,2. Defenseur,24,7,GER,Eintracht Braunschweig,NON,26,Safet Susic,BIH,2-juin,3,203,Ermin Bicakcic,21
+F,IRN,Daniel,DAVARI,DAVA,DAVAIRN,1. Gardien,26,4,GER,Eintracht Braunschweig,NON,25,Carlos Queiroz,POR,1-juin,22,138,Daniel Davari,43
+E,SUI,Tranquillo,BARNETTA,BARN,BARNSUI,3. Milieu,29,73,GER,Eintracht Frankfurt,NON,32,Ottmar Hitzfeld,GER,13-mai,7,689,Tranquillo Barnetta,6
+C,CIV,Constant,DJAKPA,DJAK,DJAKCIV,2. Defenseur,27,4,GER,Eintracht Frankfurt,NON,26,Sabri Lamouchi,FRA,1-juin,18,128,Constant Djakpa,23
+E,ECU,Adrian,BONE,BONE,BONEECU,1. Gardien,25,3,ECU,El Nacional,OUI,26,Reinaldo Rueda,ECU,2-juin,12,9,Adrian Bone,26
+F,BIH,Ognjen,VRANJES,VRAN,VRANBIH,2. Defenseur,24,13,Turkey,Elaz?gspor,NON,26,Safet Susic,BIH,2-juin,6,539,Ognjen Vranjes,21
+C,COL,Carlos,SANCHEZ,SANC,SANCCOL,3. Milieu,28,44,ESP,Elche,NON,36,Jose Pekerman,ARG,2-juin,6,105,Carlos Sanchez,8
+E,ECU,Gabriel,ACHIER,ACHI,ACHIECU,2. Defenseur,29,22,ECU,Emelec,OUI,26,Reinaldo Rueda,ECU,2-juin,21,236,Gabriel ACHIer,26
+E,ECU,oscar,BAGüI,BAG�,BAG�ECU,2. Defenseur,31,21,ECU,Emelec,OUI,26,Reinaldo Rueda,ECU,2-juin,18,549,oscar Bagüi,26
+E,ECU,Jorge,GUAGUA,GUAG,GUAGECU,2. Defenseur,32,58,ECU,Emelec,OUI,26,Reinaldo Rueda,ECU,2-juin,2,355,Jorge Guagua,26
+A,MEX,Hector,MORENO,MORE,MOREMEX,2. Defenseur,26,53,ESP,Espanyol,NON,32,Miguel Herrera,MEX,9-mai,15,276,Hector Moreno,20
+D,URU,Christian,STUANI,STUA,STUAURU,4. Attaquant,27,9,ESP,Espanyol,NON,30,Oscar Tabarez,URU,31-mai,11,121,Christian Stuani,7
+G,GHA,Harrison,AFFUL,AFFU,AFFUGHA,2. Defenseur,27,40,Tunisie,Esperance,NON,26,James Kwesi Appiah,GHA,1-juin,23,272,Harrison Afful,37
+F,IRN,Hashem,BEIKZADEH,BEIK,BEIKIRN,2. Defenseur,30,17,IRN,Esteghlal,OUI,25,Carlos Queiroz,POR,1-juin,19,273,Hashem Beikzadeh,43
+F,IRN,Khosro,HEYDARI,HEYD,HEYDIRN,3. Milieu,30,48,IRN,Esteghlal,OUI,25,Carlos Queiroz,POR,1-juin,2,391,Khosro Heydari,43
+F,IRN,Amir-Hossien, SADEGHI,SADE,SADEIRN,2. Defenseur,32,16,IRN,Esteghlal,OUI,25,Carlos Queiroz,POR,1-juin,5,41,Amir-Hossein Sadeghi,43
+F,IRN,Andranik,TEYMOURIAN,TEYM,TEYMIRN,3. Milieu,31,78,IRN,Esteghlal,OUI,25,Carlos Queiroz,POR,1-juin,14,42,Andranik Teymourian,43
+D,ENG,Leighton,BAINES,BAIN,BAINENG,2. Defenseur,29,23,ENG,Everton,OUI,26,Roy Hodgson,ENG,12-mai,3,417,Leighton Baines,10
+D,ENG,Ross,BARKLEY,BARK,BARKENG,3. Milieu,20,4,ENG,Everton,OUI,26,Roy Hodgson,ENG,12-mai,21,615,Ross Barkley,10
+G,USA,Tim,HOWARD,HOWA,HOWAUSA,1. Gardien,35,99,ENG,Everton,NON,31,Jurgen Klinsmann,GER,22-mai,1,680,Tim Howard,13
+D,ENG,Phil,JAGIELKA,JAGI,JAGIENG,2. Defenseur,31,25,ENG,Everton,OUI,26,Roy Hodgson,ENG,12-mai,6,574,Phil Jagielka,10
+H,BEL,Romelu,LUKAKU,LUKA,LUKABEL,4. Attaquant,21,29,ENG,Everton,NON,34,Marc Wilmots,BEL,2-juin,9,611,Romelu Lukaku,11
+H,BEL,Kevin,MIRALLAS,MIRA,MIRABEL,3. Milieu,26,44,ENG,Everton,NON,34,Marc Wilmots,BEL,2-juin,11,388,Kevin Mirallas,11
+G,GHA,Jonathan,MENSAH,MENS,MENSGHA,2. Defenseur,23,26,FRA,Evian,NON,26,James Kwesi Appiah,GHA,1-juin,19,348,Jonathan Mensah,37
+C,JPN,Shūichi,GONDA,GOND,GONDJPN,1. Gardien,25,2,JPN,F.C. Tokyo,OUI,26,Alberto Zaccheroni,ITA,12-mai,23,649,Shūichi Gonda,46
+C,JPN,Masato,MORISHIGE,MORI,MORIJPN,2. Defenseur,27,9,JPN,F.C. Tokyo,OUI,26,Alberto Zaccheroni,ITA,12-mai,6,469,Masato Morishige,46
+H,KOR,Ji,DONG-WON,DONG,DONGKOR,4. Attaquant,23,27,GER,FC Augsburg,NON,25,Hong Myung-Bo,KOR,8-mai,19,332,Ji Dong-Won,57
+H,KOR,Hong,JEONG-HO,JEON,JEONKOR,2. Defenseur,24,24,GER,FC Augsburg,NON,25,Hong Myung-Bo,KOR,8-mai,20,284,Hong Jeong-Ho,57
+G,POR,Bruno,ALVES,ALVE,ALVEPOR,2. Defenseur,32,71,Turkey,Fenerbahce,NON,26,Paulo Bento,POR,19-mai,2,94,Bruno Alves,4
+F,NGA,Emmanuel,EMENIKE,EMEN,EMENNGA,4. Attaquant,27,22,Turkey,Fenerbahce,NON,30,Stephen Keshi,NGA,2-juin,9,199,Emmanuel Emenike,44
+B,NED,Dirk,KUYT,KUYT,KUYTNED,4. Attaquant,33,98,Turkey,Fenerbahce,NON,45,Louis van Gaal,NED,31-mai,15,171,Dirk Kuyt,15
+G,POR,Raul,MEIRELES,MEIR,MEIRPOR,3. Milieu,31,73,Turkey,Fenerbahce,NON,26,Paulo Bento,POR,19-mai,16,592,Raul Meireles,4
+A,CMR,Pierre,WEBO,WEBO,WEBOCMR,4. Attaquant,32,56,Turkey,Fenerbahce,NON,26,Volker Finke,GER,2-juin,15,578,Pierre Webo,56
+F,BIH,Muhamed,BESIC,BESI,BESIBIH,2. Defenseur,21,9,Hongrie,Ferencvaros,NON,26,Safet Susic,BIH,2-juin,7,525,Muhamed Besic,21
+A,CMR,Sammy,N'DJOCK,N'DJ,N'DJCMR,1. Gardien,24,3,Turkey,Fethiyespor,NON,26,Volker Finke,GER,2-juin,23,625,Sammy N'Djock,56
+B,NED,Jordy,CLASIE,CLAS,CLASNED,3. Milieu,22,8,NED,Feyenoord,OUI,45,Louis van Gaal,NED,31-mai,16,352,Jordy Clasie,15
+B,NED,Stefan,DE VRIJ,DE V,DE VNED,2. Defenseur,22,12,NED,Feyenoord,OUI,45,Louis van Gaal,NED,31-mai,3,658,Stefan de Vrij,15
+B,NED,Daryl,JANMAAT,JANM,JANMNED,2. Defenseur,24,16,NED,Feyenoord,OUI,45,Louis van Gaal,NED,31-mai,7,150,Daryl Janmaat,15
+B,NED,Terence,KONGOLO,KONG,KONGNED,2. Defenseur,20,1,NED,Feyenoord,OUI,45,Louis van Gaal,NED,31-mai,14,672,Terence Kongolo,15
+B,NED,Bruno,MARTINS INDI,MART,MARTNED,2. Defenseur,22,16,NED,Feyenoord,OUI,45,Louis van Gaal,NED,31-mai,4,95,Bruno Martins Indi,15
+D,ITA,Alberto,AQUILANI,AQUI,AQUIITA,3. Milieu,29,34,ITA,Fiorentina,OUI,26,Cesare Prandelli,ITA,1-juin,14,19,Alberto Aquilani,9
+C,COL,Juan GUILLERMO,CUADRADO,CUAD,CUADCOL,3. Milieu,26,28,ITA,Fiorentina,NON,36,Jose Pekerman,ARG,2-juin,11,372,Juan Guillermo Cuadrado,8
+A,CRO,Ante,REBIC,REBI,REBICRO,4. Attaquant,20,5,ITA,Fiorentina,NON,27,Niko Kovac,CRO,31-mai,16,56,Ante Rebic,18
+E,ECU,Frickson,ERAZO,ERAZ,ERAZECU,2. Defenseur,26,36,BRA,Flamengo,NON,26,Reinaldo Rueda,ECU,2-juin,3,235,Frickson Erazo,26
+A,BRA,Fred,FRED,FRED,FREDBRA,4. Attaquant,30,33,BRA,Fluminense,OUI,46,Luiz Felipe Scolari,BRA,2-juin,9,233,Fred,3
+F,IRN,Bakhtiar,RAHMANI,RAHM,RAHMIRN,3. Milieu,22,4,IRN,Foolad,OUI,25,Carlos Queiroz,POR,1-juin,18,79,Bakhtiar Rahmani,43
+C,CIV,Mathis,BOLLY,BOLL,BOLLCIV,4. Attaquant,23,3,GER,Fortuna Dusseldorf,NON,26,Sabri Lamouchi,FRA,1-juin,6,477,Mathis Bolly,23
+B,AUS,Ben,HALLORAN,HALL,HALLAUS,3. Milieu,21,2,GER,Fortuna Dusseldorf,NON,26,Ange Postecoglou,AUS,3-juin,10,82,Ben Halloran,62
+B,AUS,Mathew,LECKIE,LECK,LECKAUS,4. Attaquant,23,8,GER,FSV Frankfurt,NON,26,Ange Postecoglou,AUS,3-juin,7,473,Mathew Leckie,62
+F,IRN,Ashkan,DEJAGAH,DEJA,DEJAIRN,3. Milieu,27,13,ENG,Fulham,NON,25,Carlos Queiroz,POR,1-juin,21,67,Ashkan Dejagah,43
+C,GRE,Giorgos,KARAGOUNIS,KARA,KARAGRE,3. Milieu,37,135,ENG,Fulham,NON,31,Fernando Santos,POR,19-mai,10,253,Giorgos Karagounis (c),12
+C,GRE,Kostas,MITROGLOU,MITR,MITRGRE,4. Attaquant,26,32,ENG,Fulham,NON,31,Fernando Santos,POR,19-mai,9,404,Kostas Mitroglou,12
+A,CMR,Aurelien,CHEDJOU,CHED,CHEDCMR,2. Defenseur,28,31,Turkey,Galatasaray,NON,26,Volker Finke,GER,2-juin,14,72,Aurelien Chedjou,56
+C,CIV,Didier,DROGBA,DROG,DROGCIV,4. Attaquant,36,100,Turkey,Galatasaray,NON,26,Sabri Lamouchi,FRA,1-juin,11,159,Didier Drogba (c),23
+F,BIH,Izet,HAJROVIC,HAJR,HAJRBIH,3. Milieu,22,7,Turkey,Galatasaray,NON,26,Safet Susic,BIH,2-juin,14,304,Izet Hajrovic,21
+D,URU,Fernando,MUSLERA,MUSL,MUSLURU,1. Gardien,27,57,Turkey,Galatasaray,NON,30,Oscar Tabarez,URU,31-mai,1,225,Fernando Muslera,7
+B,NED,Wesley,SNEIJDER,SNEI,SNEINED,3. Milieu,29,99,Turkey,Galatasaray,NON,45,Louis van Gaal,NED,31-mai,10,714,Wesley Sneijder,15
+C,JPN,Yasuhito,ENDO,ENDO,ENDOJPN,3. Milieu,34,143,JPN,Gamba Osaka,OUI,26,Alberto Zaccheroni,ITA,12-mai,7,724,Yasuhito Endō,46
+C,JPN,Yasuyuki,KONNO,KONN,KONNJPN,2. Defenseur,31,80,JPN,Gamba Osaka,OUI,26,Alberto Zaccheroni,ITA,12-mai,15,725,Yasuyuki Konno,46
+F,BIH,Haris,MEDUNJANIN,MEDU,MEDUBIH,3. Milieu,29,35,Turkey,Gaziantepspor,NON,26,Safet Susic,BIH,2-juin,18,270,Haris Medunjanin,21
+C,GRE,Giannis,FETFATZIDIS,FETF,FETFGRE,3. Milieu,23,19,ITA,Genoa,NON,31,Fernando Santos,POR,19-mai,18,250,Giannis Fetfatzidis,12
+D,ITA,Mattia,PERIN,PERI,PERIITA,1. Gardien,21,0,ITA,Genoa,OUI,26,Cesare Prandelli,ITA,1-juin,13,485,Mattia Perin,9
+A,CRO,Sime,VRSALJKO,VRSA,VRSACRO,2. Defenseur,22,7,ITA,Genoa,NON,27,Niko Kovac,CRO,31-mai,2,652,Sime Vrsaljko,18
+H,ALG,Medhi,LACEN,LACE,LACEALG,3. Milieu,30,29,ESP,Getafe,NON,29,Vahid Halilhodzic,BIH,2-juin,12,496,Medhi Lacen,22
+A,CRO,Sammir,SAMMIR,SAMM,SAMMCRO,3. Milieu,27,6,ESP,Getafe,NON,27,Niko Kovac,CRO,31-mai,19,623,Sammir,18
+F,NGA,Chigozie,AGBIM,AGBI,AGBINGA,1. Gardien,29,11,NGA,Gombe United,OUI,30,Stephen Keshi,NGA,2-juin,21,115,Chigozie Agbim,44
+H,ALG,Yacine,BRAHIMI,BRAH,BRAHALG,3. Milieu,24,5,ESP,Granada,NON,29,Vahid Halilhodzic,BIH,2-juin,11,722,Yacine Brahimi,22
+C,GRE,Orestis,KARNEZIS,KARN,KARNGRE,1. Gardien,28,19,ESP,Granada,NON,31,Fernando Santos,POR,19-mai,1,546,Orestis Karnezis,12
+A,CMR,Allan,NYOM,NYOM,NYOMCMR,2. Defenseur,26,10,ESP,Granada,NON,26,Volker Finke,GER,2-juin,22,38,Allan Nyom,56
+E,SUI,Roman,BüRKI,BüR,BüRSUI,1. Gardien,23,0,SUI,Grasshopper,OUI,32,Ottmar Hitzfeld,GER,13-mai,21,608,Roman Bürki,6
+E,SUI,Michael,LANG,LANG,LANGSUI,2. Defenseur,23,5,SUI,Grasshopper,OUI,32,Ottmar Hitzfeld,GER,13-mai,6,507,Michael Lang,6
+H,KOR,Kim,YOUNG-GWON,YOUN,YOUNKOR,2. Defenseur,24,20,China,Guangzhou Evergrande,NON,25,Hong Myung-Bo,KOR,8-mai,5,397,Kim Young-Gwon,57
+H,KOR,Park,JONG-WOO,JONG,JONGKOR,3. Milieu,25,10,China,Guangzhou R&F,NON,25,Hong Myung-Bo,KOR,8-mai,15,560,Park Jong-Woo,57
+F,BIH,Zvjezdan,MISIMOVIC,MISI,MISIBIH,3. Milieu,32,82,China,Guizhou Renhe,NON,26,Safet Susic,BIH,2-juin,10,736,Zvjezdan Misimovic,21
+F,BIH,Tino-Sven,SUSIC,SUSI,SUSIBIH,3. Milieu,22,2,CRO,Hajduk Split,NON,26,Safet Susic,BIH,2-juin,21,683,Tino-Sven Susic,21
+F,BIH,Avdija,VRSAJEVIC,VRSA,VRSABIH,2. Defenseur,28,13,CRO,Hajduk Split,NON,26,Safet Susic,BIH,2-juin,2,74,Avdija Vrsajevic,21
+A,CRO,Milan,BADELJ,BADE,BADECRO,3. Milieu,25,9,GER,Hamburger SV,NON,27,Niko Kovac,CRO,31-mai,15,300,Milan Badelj,18
+E,SUI,Johan,DJOUROU,DJOU,DJOUSUI,2. Defenseur,27,44,GER,Hamburger SV,NON,32,Ottmar Hitzfeld,GER,13-mai,20,341,Johan Djourou,6
+C,JPN,Hiroki,SAKAI,SAKA,SAKAJPN,2. Defenseur,24,17,GER,Hannover 96,NON,26,Alberto Zaccheroni,ITA,12-mai,21,282,Hiroki Sakai,46
+C,CIV,Didier,YA KONAN,YA K,YA KCIV,3. Milieu,30,25,GER,Hannover 96,NON,26,Sabri Lamouchi,FRA,1-juin,13,160,Didier Ya Konan,23
+G,GER,Ron-Robert,ZIELER,ZIEL,ZIELGER,1. Gardien,25,3,GER,Hannover 96,OUI,43,Joachim Low,GER,2-juin,12,613,Ron-Robert Zieler,2
+F,NGA,Austin,EJIDE,EJID,EJIDNGA,1. Gardien,30,32,Israel,Hapoel Beer Sheva,NON,30,Stephen Keshi,NGA,2-juin,16,73,Austin Ejide,44
+F,NGA,Uche,NWOFOR,NWOF,NWOFNGA,4. Attaquant,22,6,NED,Heerenveen,NON,30,Stephen Keshi,NGA,2-juin,19,690,Uche Nwofor,44
+B,AUS,Jason,DAVIDSON,DAVI,DAVIAUS,2. Defenseur,22,7,NED,Heracles Almelo,NON,26,Ange Postecoglou,AUS,3-juin,3,315,Jason Davidson,62
+D,CRC,Daniel,CAMBRONERO,CAMB,CAMBCRC,1. Gardien,28,2,CRC,Herediano,OUI,37,Jorge Luis Pinto,COL,31-mai,23,137,Daniel Cambronero,28
+D,CRC,Esteban,GRANADOS,GRAN,GRANCRC,3. Milieu,28,11,CRC,Herediano,OUI,37,Jorge Luis Pinto,COL,31-mai,13,205,Esteban Granados,28
+D,CRC,Jose MIGUEL,CUBERO,CUBE,CUBECRC,3. Milieu,27,36,CRC,Herediano,OUI,37,Jorge Luis Pinto,COL,31-mai,22,362,Jose Miguel Cubero,28
+G,USA,John,BROOKS,BROO,BROOUSA,2. Defenseur,21,4,GER,Hertha BSC,NON,31,Jurgen Klinsmann,GER,22-mai,6,343,John Brooks,13
+C,COL,Adrian,RAMOS,RAMO,RAMOCOL,4. Attaquant,28,26,GER,Hertha BSC,NON,36,Jose Pekerman,ARG,2-juin,19,10,Adrian Ramos,8
+G,USA,Brad,DAVIS,DAVI,DAVIUSA,3. Milieu,32,16,USA,Houston Dynamo,OUI,31,Jurgen Klinsmann,GER,22-mai,14,91,Brad Davis,13
+E,HON,oscar,GARCIA,GARC,GARCHON,3. Milieu,29,92,USA,Houston Dynamo,NON,26,Luis Fernando Suarez,COL,5-mai,14,551,oscar Garcia,33
+E,HON,Maynor,FIGUEROA,FIGU,FIGUHON,2. Defenseur,31,104,ENG,Hull City,NON,26,Luis Fernando Suarez,COL,5-mai,3,495,Maynor Figueroa,33
+A,CRO,Nikica,JELAVIC,JELA,JELACRO,4. Attaquant,28,33,ENG,Hull City,NON,27,Niko Kovac,CRO,31-mai,9,536,Nikica Jelavic,18
+F,ARG,Ricardo,ALVAREZ,ALVA,ALVAARG,3. Milieu,26,5,ITA,Inter Milan,NON,44,Alejandro Sabella,ARG,2-juin,19,598,Ricardo alvarez,5
+F,ARG,Hugo,CAMPAGNARO,CAMP,CAMPARG,2. Defenseur,33,13,ITA,Inter Milan,NON,44,Alejandro Sabella,ARG,2-juin,3,288,Hugo Campagnaro,5
+C,COL,Fredy,GUARIN,GUAR,GUARCOL,3. Milieu,27,49,ITA,Inter Milan,NON,36,Jose Pekerman,ARG,2-juin,13,234,Fredy Guarin,8
+A,BRA,Hernanes,HERNANES,HERN,HERNBRA,3. Milieu,29,24,ITA,Inter Milan,NON,46,Luiz Felipe Scolari,BRA,2-juin,18,281,Hernanes,3
+A,CRO,Mateo,KOVACIC,KOVA,KOVACRO,3. Milieu,20,10,ITA,Inter Milan,NON,27,Niko Kovac,CRO,31-mai,20,472,Mateo Kovacic,18
+C,JPN,Yuto,NAGATOMO,NAGA,NAGAJPN,2. Defenseur,27,69,ITA,Inter Milan,NON,26,Alberto Zaccheroni,ITA,12-mai,5,734,Yuto Nagatomo,46
+F,ARG,Rodrigo,PALACIO,PALA,PALAARG,4. Attaquant,32,15,ITA,Inter Milan,NON,44,Alejandro Sabella,ARG,2-juin,18,606,Rodrigo Palacio,5
+H,ALG,Saphir,TAIDER,TAID,TAIDALG,3. Milieu,22,10,ITA,Inter Milan,NON,29,Vahid Halilhodzic,BIH,2-juin,19,630,Saphir Taeder,22
+B,CHI,Charles,ARANGUIZ,ARAN,ARANCHI,3. Milieu,25,21,BRA,Internacional,NON,31,Jorge Sampaoli,ARG,1-juin,20,112,Charles Aranguiz,14
+F,BIH,Edin,VISCA,VISC,VISCBIH,4. Attaquant,24,10,Turkey,Istanbul BB,NON,26,Safet Susic,BIH,2-juin,19,184,Edin Visca,21
+B,AUS,Alex,WILKINSON,WILK,WILKAUS,2. Defenseur,29,3,KOR,Jeonbuk Hyundai Motors,NON,26,Ange Postecoglou,AUS,3-juin,22,30,Alex Wilkinson,62
+C,JPN,Masahiko,INOHA,INOH,INOHJPN,2. Defenseur,30,21,JPN,Jubilo Iwata,OUI,26,Alberto Zaccheroni,ITA,12-mai,19,468,Masahiko Inoha,46
+G,GHA,Kwadwo,ASAMOAH,ASAM,ASAMGHA,3. Milieu,25,61,ITA,Juventus,NON,26,James Kwesi Appiah,GHA,1-juin,20,406,Kwadwo Asamoah,37
+D,ITA,Andrea,BARZAGLI,BARZ,BARZITA,2. Defenseur,33,47,ITA,Juventus,OUI,26,Cesare Prandelli,ITA,1-juin,15,46,Andrea Barzagli,9
+D,ITA,Leonardo,BONUCCI,BONU,BONUITA,2. Defenseur,27,36,ITA,Juventus,OUI,26,Cesare Prandelli,ITA,1-juin,19,418,Leonardo Bonucci,9
+D,ITA,Gianluigi,BUFFON,BUFF,BUFFITA,1. Gardien,36,139,ITA,Juventus,OUI,26,Cesare Prandelli,ITA,1-juin,1,249,Gianluigi Buffon (c),9
+D,URU,Martin,CACERES,CACE,CACEURU,2. Defenseur,27,56,ITA,Juventus,NON,30,Oscar Tabarez,URU,31-mai,22,464,Martin Caceres,7
+D,ITA,Giorgio,CHIELLINI,CHIE,CHIEITA,2. Defenseur,29,67,ITA,Juventus,OUI,26,Cesare Prandelli,ITA,1-juin,3,252,Giorgio Chiellini,9
+B,CHI,Mauricio,ISLA,ISLA,ISLACHI,3. Milieu,25,47,ITA,Juventus,NON,31,Jorge Sampaoli,ARG,1-juin,4,486,Mauricio Isla,14
+E,SUI,Stephan,LICHTSTEINER,LICH,LICHSUI,2. Defenseur,30,62,ITA,Juventus,NON,32,Ottmar Hitzfeld,GER,13-mai,2,660,Stephan Lichtsteiner,6
+D,ITA,Claudio,MARCHISIO,MARC,MARCITA,3. Milieu,28,43,ITA,Juventus,OUI,26,Cesare Prandelli,ITA,1-juin,8,125,Claudio Marchisio,9
+D,ITA,Andrea,PIRLO,PIRL,PIRLITA,3. Milieu,35,108,ITA,Juventus,OUI,26,Cesare Prandelli,ITA,1-juin,21,47,Andrea Pirlo,9
+E,FRA,Paul,POGBA,POGB,POGBFRA,3. Milieu,21,10,ITA,Juventus,NON,35,Didier Deschamps,FRA,13-mai,19,565,Paul Pogba,17
+B,CHI,Arturo,VIDAL,VIDA,VIDACHI,3. Milieu,27,54,ITA,Juventus,NON,31,Jorge Sampaoli,ARG,1-juin,8,65,Arturo Vidal,14
+H,KOR,Kim,CHANG-SOO,CHAN,CHANKOR,2. Defenseur,28,8,JPN,Kashiwa Reysol,NON,25,Hong Myung-Bo,KOR,8-mai,2,394,Kim Chang-Soo,57
+H,KOR,Han,KOOK-YOUNG,KOOK,KOOKKOR,3. Milieu,24,9,JPN,Kashiwa Reysol,NON,25,Hong Myung-Bo,KOR,8-mai,14,269,Han Kook-Young,57
+C,JPN,Yoshito,AKUBO,AKUB,AKUBJPN,4. Attaquant,31,56,JPN,Kawasaki Frontale,OUI,26,Alberto Zaccheroni,ITA,12-mai,13,730,Yoshito Ōkubo,46
+F,BIH,Senijad,IBRICIC,IBRI,IBRIBIH,3. Milieu,28,42,Turkey,Kayseri Erciyesspor,NON,26,Safet Susic,BIH,2-juin,17,637,Senijad Ibricic,21
+C,GRE,Alexandros,TZIOLIS,TZIO,TZIOGRE,3. Milieu,29,49,Turkey,Kayserispor,NON,31,Fernando Santos,POR,19-mai,6,33,Alexandros Tziolis,12
+C,GRE,Theofanis,GEKAS,GEKA,GEKAGRE,4. Attaquant,34,72,Turkey,Konyaspor,NON,31,Fernando Santos,POR,19-mai,17,673,Theofanis Gekas,12
+A,CMR,Charles,ITANDJE,ITAN,ITANCMR,1. Gardien,31,9,Turkey,Konyaspor,NON,26,Volker Finke,GER,2-juin,16,113,Charles Itandje,56
+G,GHA,Mohammed,RABIU,RABI,RABIGHA,3. Milieu,24,16,RUS,Kuban Krasnodar,NON,26,James Kwesi Appiah,GHA,1-juin,17,522,Mohammed Rabiu,37
+D,CRC,Marco,URENA,UREN,URENCRC,4. Attaquant,24,25,RUS,Kuban Krasnodar,NON,37,Jorge Luis Pinto,COL,31-mai,21,451,Marco Urena,28
+F,IRN,Masoud,SHOJAEI,SHOJ,SHOJIRN,3. Milieu,29,49,ESP,Las Palmas,NON,25,Carlos Queiroz,POR,1-juin,7,470,Masoud Shojaei,43
+F,ARG,Lucas,BIGLIA,BIGL,BIGLARG,3. Milieu,28,16,ITA,Lazio,NON,44,Alejandro Sabella,ARG,2-juin,6,426,Lucas Biglia,5
+D,ITA,Antonio,CANDREVA,CAND,CANDITA,3. Milieu,27,19,ITA,Lazio,OUI,26,Cesare Prandelli,ITA,1-juin,6,59,Antonio Candreva,9
+D,URU,alvaro,GONZALEZ,GONZ,GONZURU,3. Milieu,29,42,ITA,Lazio,NON,30,Oscar Tabarez,URU,31-mai,20,39,alvaro Gonzalez,7
+G,GER,Miroslav,KLOSE,KLOS,KLOSGER,4. Attaquant,35,131,ITA,Lazio,NON,43,Joachim Low,GER,2-juin,11,519,Miroslav Klose,2
+F,BIH,Senad,LULIC,LULI,LULIBIH,3. Milieu,28,33,ITA,Lazio,NON,26,Safet Susic,BIH,2-juin,16,636,Senad Lulic,21
+F,NGA,Ogenyi,ONAZI,ONAZ,ONAZNGA,3. Milieu,21,20,ITA,Lazio,NON,30,Stephen Keshi,NGA,2-juin,17,538,Ogenyi Onazi,44
+G,POR,Helder,POSTIGA,POST,POSTPOR,4. Attaquant,31,67,ITA,Lazio,NON,26,Paulo Bento,POR,19-mai,23,278,Helder Postiga,4
+E,ECU,Alexander,DOMINGUEZ,DOMI,DOMIECU,1. Gardien,27,18,ECU,LDU Quito,OUI,26,Reinaldo Rueda,ECU,2-juin,22,31,Alexander Dominguez,26
+H,ALG,Riyad,MAHREZ,MAHR,MAHRALG,3. Milieu,23,1,ENG,Leicester City,NON,29,Vahid Halilhodzic,BIH,2-juin,21,603,Riyad Mahrez,22
+H,ALG,Madjid,BOUGHERRA,BOUG,BOUGALG,2. Defenseur,31,61,Qatar,Lekhwiya,NON,29,Vahid Halilhodzic,BIH,2-juin,2,437,Madjid Bougherra (c),22
+A,CMR,Edgar,SALLI,SALL,SALLCMR,3. Milieu,21,9,FRA,Lens,NON,26,Volker Finke,GER,2-juin,20,182,Edgar Salli,56
+A,MEX,Jose Juan,VAZQUEZ,VAZQ,VAZQMEX,3. Milieu,26,5,MEX,Leon,OUI,32,Miguel Herrera,MEX,9-mai,23,359,Jose Juan Vazquez,20
+A,MEX,Rafael,MARQUEZ,MARQ,MARQMEX,2. Defenseur,35,120,MEX,Leon,OUI,32,Miguel Herrera,MEX,9-mai,4,581,Rafael Marquez (c),20
+A,MEX,Carlos,PENA,PENA,PENAMEX,3. Milieu,24,16,MEX,Leon,OUI,32,Miguel Herrera,MEX,9-mai,21,103,Carlos Pena,20
+D,CRC,Keylor,NAVAS,NAVA,NAVACRC,1. Gardien,27,53,ESP,Levante,NON,37,Jorge Luis Pinto,COL,31-mai,1,390,Keylor Navas,28
+C,GRE,Loukas,VYNTRA,VYNT,VYNTGRE,2. Defenseur,33,50,ESP,Levante,NON,31,Fernando Santos,POR,19-mai,11,425,Loukas Vyntra,12
+D,URU,Rodrigo,MUNOZ,MUNO,MUNOURU,1. Gardien,32,0,Paraguay,Libertad,NON,30,Oscar Tabarez,URU,31-mai,12,605,Rodrigo Munoz,7
+F,NGA,Vincent,ENYEAMA,ENYE,ENYENGA,1. Gardien,31,90,FRA,Lille,NON,30,Stephen Keshi,NGA,2-juin,1,706,Vincent Enyeama (c),44
+C,CIV,Salomon,KALOU,KALO,KALOCIV,4. Attaquant,28,64,FRA,Lille,NON,26,Sabri Lamouchi,FRA,1-juin,8,620,Salomon Kalou,23
+E,FRA,Rio,MAVUBA,MAVU,MAVUFRA,3. Milieu,30,11,FRA,Lille,OUI,35,Didier Deschamps,FRA,13-mai,12,602,Rio Mavuba,17
+H,BEL,Divock,ORIGI,ORIG,ORIGBEL,4. Attaquant,19,2,FRA,Lille,NON,34,Marc Wilmots,BEL,2-juin,17,172,Divock Origi,11
+D,ENG,Steven,GERRARD,GERR,GERRENG,3. Milieu,34,110,ENG,Liverpool,OUI,26,Roy Hodgson,ENG,12-mai,4,667,Steven Gerrard (c),10
+D,ENG,Jordan,HENDERSON,HEND,HENDENG,3. Milieu,23,9,ENG,Liverpool,OUI,26,Roy Hodgson,ENG,12-mai,14,350,Jordan Henderson,10
+D,ENG,Glen,JOHNSON,JOHN,JOHNENG,2. Defenseur,29,51,ENG,Liverpool,OUI,26,Roy Hodgson,ENG,12-mai,2,258,Glen Johnson,10
+H,BEL,Simon,MIGNOLET,MIGN,MIGNBEL,1. Gardien,25,14,ENG,Liverpool,NON,34,Marc Wilmots,BEL,2-juin,12,653,Simon Mignolet,11
+F,NGA,Victor,MOSES,MOSE,MOSENGA,3. Milieu,23,20,ENG,Liverpool,NON,30,Stephen Keshi,NGA,2-juin,11,702,Victor Moses,44
+E,FRA,Mamadou,SAKHO,SAKH,SAKHFRA,2. Defenseur,24,18,ENG,Liverpool,NON,35,Didier Deschamps,FRA,13-mai,5,442,Mamadou Sakho,17
+D,ENG,Raheem,STERLING,STER,STERENG,3. Milieu,19,3,ENG,Liverpool,OUI,26,Roy Hodgson,ENG,12-mai,19,583,Raheem Sterling,10
+D,ENG,Daniel,STURRIDGE,STUR,STURENG,4. Attaquant,24,11,ENG,Liverpool,OUI,26,Roy Hodgson,ENG,12-mai,9,140,Daniel Sturridge,10
+D,URU,Luis,SUAREZ,SUAR,SUARURU,4. Attaquant,27,77,ENG,Liverpool,NON,30,Oscar Tabarez,URU,31-mai,9,432,Luis Suarez,7
+C,CIV,Kolo,TOURE,TOUR,TOURCIV1,2. Defenseur,33,106,ENG,Liverpool,NON,26,Sabri Lamouchi,FRA,1-juin,4,400,Kolo Toure,23
+H,ALG,Djamel,MESBAH,MESB,MESBALG,2. Defenseur,29,26,ITA,Livorno,NON,29,Vahid Halilhodzic,BIH,2-juin,6,173,Djamel Mesbah,22
+C,CIV,Boubacar,BARRY,BARR,BARRCIV,1. Gardien,34,79,BEL,Lokeren,NON,26,Sabri Lamouchi,FRA,1-juin,1,90,Boubacar Barry,23
+A,CRO,Vedran,CORLUKA,CORL,CORLCRO,2. Defenseur,28,72,RUS,Lokomotiv Moscow,NON,27,Niko Kovac,CRO,31-mai,5,698,Vedran Corluka,18
+H,RUS,Aleksandr,SAMEDOV,SAME,SAMERUS,4. Attaquant,29,16,RUS,Lokomotiv Moscow,OUI,25,Fabio Capello,ITA,2-juin,19,24,Aleksandr Samedov,19
+A,CRO,Oliver,ZELENIKA,ZELE,ZELECRO,1. Gardien,21,0,CRO,Lokomotiva,OUI,27,Niko Kovac,CRO,31-mai,12,543,Oliver Zelenika,18
+A,CMR,Vincent,ABOUBAKAR,ABOU,ABOUCMR,4. Attaquant,22,24,FRA,Lorient,NON,26,Volker Finke,GER,2-juin,10,705,Vincent Aboubakar,56
+G,USA,Omar,GONZALEZ,GONZ,GONZUSA,2. Defenseur,25,19,USA,Los Angeles Galaxy,OUI,31,Jurgen Klinsmann,GER,22-mai,3,545,Omar Gonzalez,13
+B,AUS,Oliver,BOZANIC,BOZA,BOZAAUS,3. Milieu,25,3,SUI,Luzern,NON,26,Ange Postecoglou,AUS,3-juin,13,542,Oliver Bozanic,62
+A,CMR,Henri,BEDIMO,BEDI,BEDICMR,2. Defenseur,30,31,FRA,Lyon,NON,26,Volker Finke,GER,2-juin,12,279,Henri Bedimo,56
+A,CMR,Maxim,CHOUPO-MOTING,CHOU,CHOUCMR,4. Attaquant,25,26,GER,Mainz 05,NON,26,Volker Finke,GER,2-juin,13,491,Maxim Choupo-Moting,56
+D,CRC,Junior,DIAZ,DIAZ,DIAZCRC,2. Defenseur,30,58,GER,Mainz 05,NON,37,Jorge Luis Pinto,COL,31-mai,15,380,Junior Diaz,28
+H,KOR,Koo,JA-CHEOL,JA-C,JA-CKOR,3. Milieu,25,36,GER,Mainz 05,NON,25,Hong Myung-Bo,KOR,8-mai,13,401,Koo Ja-Cheol (c),57
+H,KOR,Park,JOO-HO,JOO-,JOO-KOR,2. Defenseur,27,13,GER,Mainz 05,NON,25,Hong Myung-Bo,KOR,8-mai,22,561,Park Joo-Ho,57
+C,JPN,Shinji,OKAZAKI,OKAZ,OKAZJPN,4. Attaquant,28,75,GER,Mainz 05,NON,26,Alberto Zaccheroni,ITA,12-mai,9,647,Shinji Okazaki,46
+H,ALG,Liassine,CADAMURO-BENTAEBA,CADA,CADAALG,2. Defenseur,26,6,ESP,Mallorca,NON,29,Vahid Halilhodzic,BIH,2-juin,17,420,Liassine Cadamuro-Bentaeba,22
+B,CHI,Miiko,ALBORNOZ,ALBO,ALBOCHI,2. Defenseur,23,2,Suede,Malmo FF,NON,31,Jorge Sampaoli,ARG,1-juin,3,515,Miiko Albornoz,14
+G,GHA,Rashid,SUMAILA,SUMA,SUMAGHA,2. Defenseur,21,6,South Africa,Mamelodi Sundowns,NON,26,James Kwesi Appiah,GHA,1-juin,15,589,Rashid Sumaila,37
+F,ARG,Sergio,AGUERO,AGUE,AGUEARG,4. Attaquant,26,50,ENG,Manchester City,NON,44,Alejandro Sabella,ARG,2-juin,20,642,Sergio Agüero,5
+F,ARG,Martin,DEMICHELIS,DEMI,DEMIARG,2. Defenseur,33,37,ENG,Manchester City,NON,44,Alejandro Sabella,ARG,2-juin,15,465,Martin Demichelis,5
+F,BIH,Edin,DZEKO,DZEK,DZEKBIH,4. Attaquant,28,62,ENG,Manchester City,NON,26,Safet Susic,BIH,2-juin,11,183,Edin Dzeko,21
+A,BRA,Fernandinho,FERNANDINHO,FERN,FERNBRA,3. Milieu,29,7,ENG,Manchester City,NON,46,Luiz Felipe Scolari,BRA,2-juin,5,223,Fernandinho,3
+D,ENG,Joe,HART,HART,HARTENG,1. Gardien,27,40,ENG,Manchester City,OUI,26,Roy Hodgson,ENG,12-mai,1,337,Joe Hart,10
+H,BEL,Vincent,KOMPANY,KOMP,KOMPBEL,2. Defenseur,28,59,ENG,Manchester City,NON,34,Marc Wilmots,BEL,2-juin,4,707,Vincent Kompany (c),11
+D,ENG,James,MILNER,MILN,MILNENG,3. Milieu,28,46,ENG,Manchester City,OUI,26,Roy Hodgson,ENG,12-mai,17,310,James Milner,10
+B,ESP,David,SILVA,SILV,SILVESP,3. Milieu,28,80,ENG,Manchester City,NON,26,Vicente del Bosque,ESP,31-mai,21,154,David Silva,1
+C,CIV,Yaya,TOURE,TOUR,TOURCIV2,3. Milieu,31,83,ENG,Manchester City,NON,26,Sabri Lamouchi,FRA,1-juin,19,726,Yaya Toure,23
+F,ARG,Pablo,ZABALETA,ZABA,ZABAARG,2. Defenseur,29,36,ENG,Manchester City,NON,44,Alejandro Sabella,ARG,2-juin,4,555,Pablo Zabaleta,5
+B,ESP,David,DE GEA,DE G,DE GESP,1. Gardien,23,1,ENG,Manchester United,NON,26,Vicente del Bosque,ESP,31-mai,12,151,David de Gea,1
+E,FRA,Patrice,EVRA,EVRA,EVRAFRA,2. Defenseur,33,57,ENG,Manchester United,NON,35,Didier Deschamps,FRA,13-mai,3,562,Patrice Evra,17
+H,BEL,Marouane,FELLAINI,FELL,FELLBEL,3. Milieu,26,50,ENG,Manchester United,NON,34,Marc Wilmots,BEL,2-juin,8,463,Marouane Fellaini,11
+A,MEX,Javier,HERNANDEZ,HERN,HERNMEX,4. Attaquant,26,62,ENG,Manchester United,NON,32,Miguel Herrera,MEX,9-mai,14,320,Javier Hernandez,20
+H,BEL,Adnan,JANUZAJ,JANU,JANUBEL,3. Milieu,19,1,ENG,Manchester United,NON,34,Marc Wilmots,BEL,2-juin,20,8,Adnan Januzaj,11
+D,ENG,Phil,JONES,JONE,JONEENG,2. Defenseur,22,9,ENG,Manchester United,OUI,26,Roy Hodgson,ENG,12-mai,16,575,Phil Jones,10
+C,JPN,Shinji,KAGAWA,KAGA,KAGAJPN,3. Milieu,25,56,ENG,Manchester United,NON,26,Alberto Zaccheroni,ITA,12-mai,10,646,Shinji Kagawa,46
+B,ESP,Juan,MATA,MATA,MATAESP,3. Milieu,26,33,ENG,Manchester United,NON,26,Vicente del Bosque,ESP,31-mai,13,373,Juan Mata,1
+G,POR,Nani,NANI,NANI,NANIPOR,3. Milieu,27,73,ENG,Manchester United,NON,26,Paulo Bento,POR,19-mai,17,529,Nani,4
+D,ENG,Wayne,ROONEY,ROON,ROONENG,4. Attaquant,28,90,ENG,Manchester United,OUI,26,Roy Hodgson,ENG,12-mai,10,713,Wayne Rooney,10
+D,ENG,Chris,SMALLING,SMAL,SMALENG,2. Defenseur,24,11,ENG,Manchester United,OUI,26,Roy Hodgson,ENG,12-mai,12,116,Chris Smalling,10
+E,ECU,Antonio,VALENCIA,VALE,VALEECU1,3. Milieu,28,70,ENG,Manchester United,NON,26,Reinaldo Rueda,ECU,2-juin,16,61,Antonio Valencia (c),26
+B,NED,Robin,VAN PERSIE,VAN,VANNED,4. Attaquant,30,85,ENG,Manchester United,NON,45,Louis van Gaal,NED,31-mai,9,604,Robin van Persie (c),15
+D,ENG,Danny,WELBECK,WELB,WELBENG,4. Attaquant,23,22,ENG,Manchester United,OUI,26,Roy Hodgson,ENG,12-mai,11,145,Danny Welbeck,10
+G,GHA,Andre,AYEW,AYEW,AYEWGHA2,3. Milieu,24,48,FRA,Marseille,NON,26,James Kwesi Appiah,GHA,1-juin,10,44,Andre Ayew,37
+A,CMR,Nicolas,N'KOULOU,N'KO,N'KOCMR,2. Defenseur,24,48,FRA,Marseille,NON,26,Volker Finke,GER,2-juin,3,534,Nicolas N'Koulou,56
+E,FRA,Mathieu,VALBUENA,VALB,VALBFRA,3. Milieu,29,33,FRA,Marseille,OUI,35,Didier Deschamps,FRA,13-mai,8,476,Mathieu Valbuena,17
+B,AUS,Mark,MILLIGAN,MILL,MILLAUS,3. Milieu,28,29,AUS,Melbourne Victory,OUI,26,Ange Postecoglou,AUS,3-juin,5,462,Mark Milligan,62
+G,GHA,Albert,ADOMAH,ADOM,ADOMGHA,3. Milieu,26,14,ENG,Middlesbrough,NON,26,James Kwesi Appiah,GHA,1-juin,14,18,Albert Adomah,37
+F,NGA,Kenneth,OMERUO,OMER,OMERNGA,2. Defenseur,20,17,ENG,Middlesbrough,NON,30,Stephen Keshi,NGA,2-juin,22,385,Kenneth Omeruo,44
+F,NGA,Ejike,UZOENYI,UZOE,UZOENGA,2. Defenseur,26,42,FRA,Mamelodi Sundowns,NON,30,Stephen Keshi,NGA,2-juin,3,999,UZOENYI,44
+G,POR,João,MOUTINHO,MOUT,MOUTPOR,3. Milieu,27,66,FRA,Monaco,NON,26,Paulo Bento,POR,19-mai,8,334,João Moutinho,4
+C,COL,James,RODRIGUEZ,RODR,RODRCOL,3. Milieu,22,22,FRA,Monaco,NON,36,Jose Pekerman,ARG,2-juin,10,311,James Rodriguez,8
+F,ARG,Sergio,ROMERO,ROME,ROMEARG,1. Gardien,27,45,FRA,Monaco,NON,44,Alejandro Sabella,ARG,2-juin,1,645,Sergio Romero,5
+A,CRO,Danijel,SUBASIC,SUBA,SUBACRO,1. Gardien,29,6,FRA,Monaco,NON,27,Niko Kovac,CRO,31-mai,23,144,Danijel Subasic,18
+F,ARG,Jose Ma,BASANTA,BASA,BASAARG,2. Defenseur,30,8,MEX,Monterrey,NON,44,Alejandro Sabella,ARG,2-juin,23,360,Jose Maria Basanta,5
+E,FRA,Remy,CABELLA,CABE,CABEFRA,3. Milieu,24,1,FRA,Montpellier,OUI,35,Didier Deschamps,FRA,6-juin,7,230,Remy Cabella,17
+D,URU,Egidio,AREVALO RIOS,AREV,AREVURU,3. Milieu,32,54,MEX,Morelia,NON,30,Oscar Tabarez,URU,31-mai,17,191,Egidio Arevalo Rios,7
+E,ECU,Jefferson,MONTERO,MONT,MONTECU,3. Milieu,24,39,MEX,Morelia,NON,26,Reinaldo Rueda,ECU,2-juin,7,326,Jefferson Montero,26
+E,HON,Jorge,CLAROS,CLAR,CLARHON,3. Milieu,28,48,HON,Motagua,OUI,26,Luis Fernando Suarez,COL,5-mai,20,353,Jorge Claros,33
+E,HON,Juan,PABLO MONTES,PABL,PABLHON,2. Defenseur,28,11,HON,Motagua,OUI,26,Luis Fernando Suarez,COL,5-mai,4,374,Juan Pablo Montes,33
+D,URU,Sebastian,COATES,COAT,COATURU,2. Defenseur,23,14,URU,Nacional,OUI,30,Oscar Tabarez,URU,31-mai,4,633,Sebastian Coates,7
+F,IRN,Ahmad,ALNAMEH,ALNA,ALNAIRN,2. Defenseur,31,9,IRN,Naft Tehran,OUI,25,Carlos Queiroz,POR,1-juin,17,14,Ahmad Alnameh,43
+A,CMR,Benjamin,MOUKANDJO,MOUK,MOUKCMR,4. Attaquant,25,17,FRA,Nancy,NON,26,Volker Finke,GER,2-juin,8,84,Benjamin Moukandjo,56
+G,USA,Alejandro,BEDOYA,BEDO,BEDOUSA,3. Milieu,27,27,FRA,Nantes,NON,31,Jurgen Klinsmann,GER,22-mai,11,21,Alejandro Bedoya,13
+B,ESP,Raul,ALBIOL,ALBI,ALBIESP,2. Defenseur,28,46,ITA,Napoli,NON,26,Vicente del Bosque,ESP,31-mai,2,590,Raul Albiol,1
+E,SUI,Valon,BEHRAMI,BEHR,BEHRSUI,3. Milieu,29,47,ITA,Napoli,NON,32,Ottmar Hitzfeld,GER,13-mai,11,693,Valon Behrami,6
+C,COL,Juan Camilo,ZUNIGA,ZUNI,ZUNICOL,2. Defenseur,28,50,ITA,Napoli,NON,36,Jose Pekerman,ARG,2-juin,18,368,Juan Camilo Zuniga,8
+E,SUI,Blerim,DZEMAILI,DZEM,DZEMSUI,3. Milieu,28,33,ITA,Napoli,NON,32,Ottmar Hitzfeld,GER,13-mai,15,89,Blerim Dzemaili,6
+F,ARG,Federico,FERNANDEZ,FERN,FERNARG,2. Defenseur,25,24,ITA,Napoli,NON,44,Alejandro Sabella,ARG,2-juin,17,220,Federico Fernandez,5
+H,ALG,Faouzi,GHOULAM,GHOU,GHOUALG,2. Defenseur,23,5,ITA,Napoli,NON,29,Vahid Halilhodzic,BIH,2-juin,3,217,Faouzi Ghoulam,22
+A,BRA,Henrique,HENRIQUE,HENR,HENRBRA,2. Defenseur,27,5,ITA,Napoli,NON,46,Luiz Felipe Scolari,BRA,2-juin,15,280,Henrique,3
+F,ARG,Gonzalo,HIGUAIN,HIGU,HIGUARG,4. Attaquant,26,36,ITA,Napoli,NON,44,Alejandro Sabella,ARG,2-juin,9,261,Gonzalo Higuain,5
+E,SUI,Gökhan,INLER,INLE,INLESUI,3. Milieu,29,71,ITA,Napoli,NON,32,Ottmar Hitzfeld,GER,13-mai,8,260,Gökhan Inler (c),6
+D,ITA,Lorenzo,INSIGNE,INSI,INSIITA,4. Attaquant,23,4,ITA,Napoli,OUI,26,Cesare Prandelli,ITA,1-juin,22,424,Lorenzo Insigne,9
+H,BEL,Dries,MERTENS,MERT,MERTBEL,4. Attaquant,27,24,ITA,Napoli,NON,34,Marc Wilmots,BEL,2-juin,14,177,Dries Mertens,11
+B,ESP,Pepe,REINA,REIN,REINESP,1. Gardien,31,32,ITA,Napoli,NON,26,Vicente del Bosque,ESP,31-mai,23,571,Pepe Reina,1
+F,IRN,Alireza,JAHANBAKHSH,JAHA,JAHAIRN,4. Attaquant,20,6,NED,NEC,NON,25,Carlos Queiroz,POR,1-juin,9,37,Alireza Jahanbakhsh,43
+E,HON,Jerry,BENGTSON,BENG,BENGHON,4. Attaquant,27,43,USA,New ENG Revolution,NON,26,Luis Fernando Suarez,COL,5-mai,11,330,Jerry Bengtson,33
+B,AUS,Tim,CAHILL,CAHI,CAHIAUS,4. Attaquant,34,69,USA,New York Red Bulls,NON,26,Ange Postecoglou,AUS,3-juin,4,679,Tim Cahill,62
+D,CRC,Roy,MILLER,MILL,MILLCRC,2. Defenseur,29,47,USA,New York Red Bulls,NON,37,Jorge Luis Pinto,COL,31-mai,19,616,Roy Miller,28
+B,AUS,Adam,TAGGART,TAGG,TAGGAUS,4. Attaquant,21,5,AUS,Newcastle Jets,OUI,26,Ange Postecoglou,AUS,3-juin,9,6,Adam Taggart,62
+F,NGA,Shola,AMEOBI,AMEO,AMEONGA,4. Attaquant,32,6,ENG,Newcastle United,NON,30,Stephen Keshi,NGA,2-juin,23,648,Shola Ameobi,44
+E,FRA,Mathieu,DEBUCHY,DEBU,DEBUFRA,2. Defenseur,28,20,ENG,Newcastle United,NON,35,Didier Deschamps,FRA,13-mai,2,475,Mathieu Debuchy,17
+B,NED,Tim,KRUL,KRUL,KRULNED,1. Gardien,26,5,ENG,Newcastle United,NON,45,Louis van Gaal,NED,31-mai,23,681,Tim Krul,15
+E,FRA,Loec,REMY,REMY,REMYFRA,4. Attaquant,27,24,ENG,Newcastle United,NON,35,Didier Deschamps,FRA,13-mai,20,423,Loec Remy,17
+E,FRA,Moussa,SISSOKO,SISS,SISSFRA,3. Milieu,24,16,ENG,Newcastle United,NON,35,Didier Deschamps,FRA,13-mai,18,524,Moussa Sissoko,17
+C,CIV,Cheick,TIOTE,TIOT,TIOTCIV,3. Milieu,27,44,ENG,Newcastle United,NON,26,Sabri Lamouchi,FRA,1-juin,9,114,Cheick Tiote,23
+F,ARG,Maxi,RODRIGUEZ,RODR,RODRARG,3. Milieu,33,53,ARG,Newell's Old Boys,OUI,44,Alejandro Sabella,ARG,2-juin,11,490,Maxi Rodriguez,5
+C,COL,David,OSPINA,OSPI,OSPICOL,1. Gardien,25,44,FRA,Nice,NON,36,Jose Pekerman,ARG,2-juin,1,153,David Ospina,8
+B,NED,Leroy,FER,FER,FERNED,3. Milieu,24,6,ENG,Norwich City,NON,45,Louis van Gaal,NED,31-mai,18,419,Leroy Fer,15
+F,NGA,Joseph,YOBO,YOBO,YOBONGA,2. Defenseur,33,96,ENG,Norwich City,NON,30,Stephen Keshi,NGA,2-juin,2,365,Joseph Yobo,44
+B,CHI,Gonzalo,JARA,JARA,JARACHI,2. Defenseur,28,65,ENG,Nottingham Forest,NON,31,Jorge Sampaoli,ARG,1-juin,18,262,Gonzalo Jara,14
+E,HON,Brayan,BECKELES,BECK,BECKHON,2. Defenseur,28,22,HON,Olimpia,OUI,26,Luis Fernando Suarez,COL,5-mai,23,93,Brayan Beckeles,33
+E,HON,Donis,ESCOBER,ESCO,ESCOHON,1. Gardien,34,26,HON,Olimpia,OUI,26,Luis Fernando Suarez,COL,5-mai,22,176,Donis Escober,33
+E,HON,Luis,GARRIDO,GARR,GARRHON,3. Milieu,23,19,HON,Olimpia,OUI,26,Luis Fernando Suarez,COL,5-mai,19,428,Luis Garrido,33
+E,HON,Noel,VALLADARES,VALL,VALLHON,1. Gardien,37,121,HON,Olimpia,OUI,26,Luis Fernando Suarez,COL,5-mai,18,537,Noel Valladares (c),33
+D,CRC,Joel,CAMPBELL,CAMP,CAMPCRC,4. Attaquant,21,33,GRE,Olympiakos,NON,37,Jorge Luis Pinto,COL,31-mai,9,338,Joel Campbell,28
+C,GRE,Jose,HOLEBAS,HOLE,HOLEGRE,2. Defenseur,29,22,GRE,Olympiakos,OUI,31,Fernando Santos,POR,19-mai,20,358,Jose Holebas,12
+C,GRE,Giannis,MANIATIS,MANI,MANIGRE,3. Milieu,27,30,GRE,Olympiakos,OUI,31,Fernando Santos,POR,19-mai,2,251,Giannis Maniatis,12
+C,GRE,Kostas,MANOLAS,MANO,MANOGRE,2. Defenseur,22,9,GRE,Olympiakos,OUI,31,Fernando Santos,POR,19-mai,4,403,Kostas Manolas,12
+C,GRE,Andreas,SAMARIS,SAMA,SAMAGRE1,3. Milieu,24,4,GRE,Olympiakos,OUI,31,Fernando Santos,POR,19-mai,22,48,Andreas Samaris,12
+G,GHA,Fatau,DAUDA,DAUD,DAUDGHA,1. Gardien,29,17,South Africa,Orlando Pirates,NON,26,James Kwesi Appiah,GHA,1-juin,16,219,Fatau Dauda,37
+B,CHI,Francisco,SILVA,SILV,SILVCHI,3. Milieu,28,12,ESP,Osasuna,NON,31,Jorge Sampaoli,ARG,1-juin,5,229,Francisco Silva,14
+E,ECU,Walter,AYOVI,AYOV,AYOVECU,2. Defenseur,34,89,MEX,Pachuca,NON,26,Reinaldo Rueda,ECU,2-juin,10,710,Walter Ayovi,26
+E,ECU,Enner,VALENCIA,VALE,VALEECU2,4. Attaquant,25,9,MEX,Pachuca,NON,26,Reinaldo Rueda,ECU,2-juin,13,200,Enner Valencia,26
+D,URU,Abel,HERNANDEZ,HERN,HERNURU,4. Attaquant,23,12,ITA,Palermo,NON,30,Oscar Tabarez,URU,31-mai,8,3,Abel Hernandez,7
+B,CHI,Jorge,VALDIVIA,VALD,VALDCHI,3. Milieu,30,57,BRA,Palmeiras,NON,31,Jorge Sampaoli,ARG,1-juin,10,356,Jorge Valdivia,14
+C,GRE,Stefanos,KAPINO,KAPI,KAPIGRE,1. Gardien,20,2,GRE,Panathinaikos,OUI,31,Fernando Santos,POR,19-mai,13,659,Stefanos Kapino,12
+A,CRO,Danijel,PRANJIC,PRAN,PRANCRO,2. Defenseur,32,50,GRE,Panathinaikos,NON,27,Niko Kovac,CRO,31-mai,3,143,Danijel Pranjic,18
+A,CRO,Gordon,SCHILDENFELD,SCHI,SCHICRO,2. Defenseur,29,21,GRE,Panathinaikos,NON,27,Niko Kovac,CRO,31-mai,13,263,Gordon Schildenfeld,18
+C,GRE,Panagiotis,GLYKOS,GLYK,GLYKGRE,1. Gardien,28,2,GRE,PAOK,OUI,31,Fernando Santos,POR,19-mai,12,556,Panagiotis Glykos,12
+C,GRE,Kostas,KATSOURANIS,KATS,KATSGRE,3. Milieu,34,111,GRE,PAOK,OUI,31,Fernando Santos,POR,19-mai,21,402,Kostas Katsouranis,12
+C,GRE,Dimitris,SALPINGIDIS,SALP,SALPGRE,4. Attaquant,32,76,GRE,PAOK,OUI,31,Fernando Santos,POR,19-mai,14,170,Dimitris Salpingidis,12
+C,GRE,Giorgos,TZAVELLAS,TZAV,TZAVGRE,2. Defenseur,26,13,GRE,PAOK,OUI,31,Fernando Santos,POR,19-mai,3,255,Giorgos Tzavellas,12
+E,FRA,Yohan,CABAYE,CABA,CABAFRA,3. Milieu,28,29,FRA,Paris Saint Germain,OUI,35,Didier Deschamps,FRA,13-mai,6,728,Yohan Cabaye,17
+D,URU,Edinson,CAVANI,CAVA,CAVAURU,4. Attaquant,27,61,FRA,Paris Saint Germain,NON,30,Oscar Tabarez,URU,31-mai,21,185,Edinson Cavani,7
+E,FRA,Lucas,DIGNE,DIGN,DIGNFRA,2. Defenseur,20,2,FRA,Paris Saint Germain,OUI,35,Didier Deschamps,FRA,13-mai,17,427,Lucas Digne,17
+F,ARG,Ezequiel,LAVEZZI,LAVE,LAVEARG,4. Attaquant,29,29,FRA,Paris Saint Germain,NON,44,Alejandro Sabella,ARG,2-juin,22,211,Ezequiel Lavezzi,5
+E,FRA,Blaise,MATUIDI,MATU,MATUFRA,3. Milieu,27,22,FRA,Paris Saint Germain,OUI,35,Didier Deschamps,FRA,13-mai,14,88,Blaise Matuidi,17
+A,BRA,Maxwell,MAXWELL,MAXW,MAXWBRA,2. Defenseur,32,9,FRA,Paris Saint Germain,NON,46,Luiz Felipe Scolari,BRA,2-juin,14,493,Maxwell,3
+D,ITA,Thiago,MOTTA,MOTT,MOTTITA,3. Milieu,31,20,FRA,Paris Saint Germain,NON,26,Cesare Prandelli,ITA,1-juin,5,674,Thiago Motta,9
+A,BRA,Thiago,SILVA,SILV,SILVBRA,2. Defenseur,29,46,FRA,Paris Saint Germain,NON,46,Luiz Felipe Scolari,BRA,2-juin,3,675,Thiago Silva (c),3
+D,ITA,Salvatore,SIRIGU,SIRI,SIRIITA,1. Gardien,27,8,FRA,Paris Saint Germain,NON,26,Cesare Prandelli,ITA,1-juin,12,621,Salvatore Sirigu,9
+D,ITA,Marco,VERRATTI,VERR,VERRITA,3. Milieu,21,5,FRA,Paris Saint Germain,NON,26,Cesare Prandelli,ITA,1-juin,23,452,Marco Verratti,9
+G,GHA,Acquah,AFRIYIE,AFRI,AFRIGHA,3. Milieu,22,4,ITA,Parma,NON,26,James Kwesi Appiah,GHA,1-juin,6,12,Acquah Afriyie,37
+D,ITA,Antonio,CASSANO,CASS,CASSITA,4. Attaquant,31,36,ITA,Parma,OUI,26,Cesare Prandelli,ITA,1-juin,10,60,Antonio Cassano,9
+D,URU,Walter,GARGANO,GARG,GARGURU,3. Milieu,29,62,ITA,Parma,NON,30,Oscar Tabarez,URU,31-mai,5,711,Walter Gargano,7
+D,ITA,Gabriel,PALETTA,PALE,PALEITA,2. Defenseur,28,2,ITA,Parma,OUI,26,Cesare Prandelli,ITA,1-juin,20,237,Gabriel Paletta,9
+D,ITA,Marco,PAROLO,PARO,PAROITA,3. Milieu,29,3,ITA,Parma,OUI,26,Cesare Prandelli,ITA,1-juin,18,449,Marco Parolo,9
+F,IRN,Reza,HAGHIGHI,HAGH,HAGHIRN1,3. Milieu,25,7,IRN,Persepolis,OUI,25,Carlos Queiroz,POR,1-juin,8,597,Reza Haghighi,43
+F,IRN,Jalal,HOSSEINI,HOSS,HOSSIRN,2. Defenseur,32,84,IRN,Persepolis,OUI,25,Carlos Queiroz,POR,1-juin,4,308,Jalal Hosseini,43
+F,IRN,Hossein,MAHINI,MAHI,MAHIIRN,2. Defenseur,27,21,IRN,Persepolis,OUI,25,Carlos Queiroz,POR,1-juin,13,285,Hossein Mahini,43
+F,IRN,Mehrdad,POOLADI,POOL,POOLIRN,2. Defenseur,27,19,IRN,Persepolis,OUI,25,Carlos Queiroz,POR,1-juin,23,498,Mehrdad Pouladi,43
+G,GHA,Samuel,INKOOM,INKO,INKOGHA,2. Defenseur,25,46,GRE,Platanias,NON,26,James Kwesi Appiah,GHA,1-juin,2,627,Samuel Inkoom,37
+H,BEL,Steven,DEFOUR,DEFO,DEFOBEL,3. Milieu,26,43,POR,Porto,NON,34,Marc Wilmots,BEL,2-juin,16,666,Steven Defour,11
+C,COL,Juan,FERNANDO QUINTERO,FERN,FERNCOL,3. Milieu,21,4,POR,Porto,NON,36,Jose Pekerman,ARG,2-juin,20,371,Juan Fernando Quintero,8
+D,URU,Jorge,FUCILE,FUCI,FUCIURU,2. Defenseur,29,41,POR,Porto,NON,30,Oscar Tabarez,URU,31-mai,13,354,Jorge Fucile,7
+H,ALG,Nabil,GHILAS,GHIL,GHILALG,4. Attaquant,24,5,POR,Porto,NON,29,Vahid Halilhodzic,BIH,2-juin,9,527,Nabil Ghilas,22
+A,MEX,Hector,HERRERA,HERR,HERRMEX,3. Milieu,24,13,POR,Porto,NON,32,Miguel Herrera,MEX,9-mai,6,275,Hector Herrera,20
+E,FRA,Eliaquim,MANGALA,MANG,MANGFRA,2. Defenseur,23,3,POR,Porto,NON,35,Didier Deschamps,FRA,13-mai,13,195,Eliaquim Mangala,17
+C,COL,Jackson,MARTINEZ,MART,MARTCOL,4. Attaquant,27,27,POR,Porto,NON,36,Jose Pekerman,ARG,2-juin,21,306,Jackson Martinez,8
+A,MEX,Diego,REYES,REYE,REYEMEX,2. Defenseur,21,14,POR,Porto,NON,32,Miguel Herrera,MEX,9-mai,5,169,Diego Reyes,20
+G,POR,Silvestre,VARELA,VARE,VAREPOR,3. Milieu,29,22,POR,Porto,OUI,26,Paulo Bento,POR,19-mai,18,651,Silvestre Varela,4
+B,AUS,Bailey,WRIGHT,WRIG,WRIGAUS,2. Defenseur,21,0,ENG,Preston North End,NON,26,Ange Postecoglou,AUS,3-juin,8,78,Bailey Wright,62
+C,COL,Santiago,ARIAS,ARIA,ARIACOL,2. Defenseur,22,6,NED,PSV,NON,36,Jose Pekerman,ARG,2-juin,4,629,Santiago Arias,8
+B,NED,Memphis,DEPAY,DEPA,DEPANED,3. Milieu,20,6,NED,PSV,OUI,45,Louis van Gaal,NED,31-mai,21,499,Memphis Depay,15
+D,CRC,Bryan,RUIZ,RUIZ,RUIZCRC,4. Attaquant,28,62,NED,PSV,NON,37,Jorge Luis Pinto,COL,31-mai,10,96,Bryan Ruiz (c),28
+B,NED,Georginio,WIJNALDUM,WIJN,WIJNNED,3. Milieu,23,5,NED,PSV,OUI,45,Louis van Gaal,NED,31-mai,20,244,Georginio Wijnaldum,15
+G,USA,DaMarcus,BEASLEY,BEAS,BEASUSA,2. Defenseur,32,115,MEX,Puebla,NON,31,Jurgen Klinsmann,GER,22-mai,7,135,DaMarcus Beasley,13
+E,HON,Osman,CHAVEZ,CHAV,CHAVHON,2. Defenseur,29,54,China,Qingdao Jonoon,NON,26,Luis Fernando Suarez,COL,5-mai,2,552,Osman Chavez,33
+A,CMR,Benoît,ASSOU-EKOTTO,ASSO,ASSOCMR,2. Defenseur,30,22,ENG,Queens Park Rangers,NON,26,Volker Finke,GER,2-juin,2,85,Benoît Assou-Ekotto,56
+H,KOR,Yun,SUK-YOUNG,SUK-,SUK-KOR,2. Defenseur,24,3,ENG,Queens Park Rangers,NON,25,Hong Myung-Bo,KOR,8-mai,3,731,Yun Suk-Young,57
+E,HON,Carlo,COSTLY,COST,COSTHON,4. Attaquant,31,69,HON,Real Espana,OUI,26,Luis Fernando Suarez,COL,5-mai,13,99,Carlo Costly,33
+E,HON,Edder,DELGADO,DELG,DELGHON,3. Milieu,27,25,HON,Real Espana,OUI,26,Luis Fernando Suarez,COL,5-mai,12,178,Edder Delgado,33
+E,HON,Luis,LOPEZ,LOPE,LOPEHON,1. Gardien,20,0,HON,Real Espana,OUI,26,Luis Fernando Suarez,COL,5-mai,1,429,Luis Lopez,33
+E,HON,Mario,MARTINEZ,MART,MARTHON,3. Milieu,24,35,HON,Real Espana,OUI,26,Luis Fernando Suarez,COL,5-mai,10,459,Mario Martinez,33
+B,ESP,Xabi,ALONSO,ALON,ALONESP,3. Milieu,32,111,ESP,Real Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,14,719,Xabi Alonso,1
+E,FRA,Karim,BENZEMA,BENZ,BENZFRA,4. Attaquant,26,65,ESP,Real Madrid,NON,35,Didier Deschamps,FRA,13-mai,10,383,Karim Benzema,17
+B,ESP,Iker,CASILLAS,CASI,CASIESP,1. Gardien,33,154,ESP,Real Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,1,295,Iker Casillas (c),1
+G,POR,Fabio,COENTRãO,COEN,COENPOR,2. Defenseur,26,43,ESP,Real Madrid,NON,26,Paulo Bento,POR,19-mai,5,215,Fabio Coentrão,4
+F,ARG,angel,DI MARIA,DI M,DI MARG,3. Milieu,26,45,ESP,Real Madrid,NON,44,Alejandro Sabella,ARG,2-juin,7,55,angel di Maria,5
+G,GER,Sami,KHEDIRA,KHED,KHEDGER,3. Milieu,27,45,ESP,Real Madrid,NON,43,Joachim Low,GER,2-juin,6,622,Sami Khedira,2
+A,BRA,Marcelo,MARCELO,MARC,MARCBRA,2. Defenseur,26,31,ESP,Real Madrid,NON,46,Luiz Felipe Scolari,BRA,2-juin,6,445,Marcelo,3
+A,CRO,Luka,MODRIC,MODR,MODRCRO,3. Milieu,28,75,ESP,Real Madrid,NON,27,Niko Kovac,CRO,31-mai,10,434,Luka Modric,18
+G,POR,Pepe,PEPE,PEPE,PEPEPOR,2. Defenseur,31,57,ESP,Real Madrid,NON,26,Paulo Bento,POR,19-mai,3,570,Pepe,4
+B,ESP,Sergio,RAMOS,RAMO,RAMOESP,2. Defenseur,28,117,ESP,Real Madrid,OUI,26,Vicente del Bosque,ESP,31-mai,15,644,Sergio Ramos,1
+G,POR,Cristiano,RONALDO,RONA,RONAPOR,4. Attaquant,29,110,ESP,Real Madrid,NON,26,Paulo Bento,POR,19-mai,7,132,Cristiano Ronaldo (c),4
+E,FRA,Raphael,VARANE,VARA,VARAFRA,2. Defenseur,21,5,ESP,Real Madrid,NON,35,Didier Deschamps,FRA,13-mai,4,588,Raphael Varane,17
+G,USA,Kyle,BECKERMAN,BECK,BECKUSA,3. Milieu,32,36,USA,Real Salt Lake,OUI,31,Jurgen Klinsmann,GER,22-mai,15,408,Kyle Beckerman,13
+G,USA,Nick,RIMANDO,RIMA,RIMAUSA,1. Gardien,34,14,USA,Real Salt Lake,OUI,31,Jurgen Klinsmann,GER,22-mai,22,531,Nick Rimando,13
+B,CHI,Claudio,BRAVO,BRAV,BRAVCHI,1. Gardien,31,79,ESP,Real Sociedad,NON,31,Jorge Sampaoli,ARG,1-juin,1,124,Claudio Bravo (c),14
+E,FRA,Antoine,GRIEZMANN,GRIE,GRIEFRA,3. Milieu,23,3,ESP,Real Sociedad,NON,35,Didier Deschamps,FRA,13-mai,11,58,Antoine Griezmann,17
+E,HON,Rony,MARTINEZ,MART,MARTHON,4. Attaquant,25,12,HON,Real Sociedad,OUI,26,Luis Fernando Suarez,COL,5-mai,16,614,Rony Martinez,33
+E,SUI,Haris,SEFEROVIC,SEFE,SEFESUI,4. Attaquant,22,10,ESP,Real Sociedad,NON,32,Ottmar Hitzfeld,GER,13-mai,9,271,Haris Seferovic,6
+H,ALG,Aissa,MANDI,MAND,MANDALG,2. Defenseur,22,2,FRA,Reims,NON,29,Vahid Halilhodzic,BIH,2-juin,20,11,Aissa Mandi,22
+G,GHA,John,BOYE,BOYE,BOYEGHA,2. Defenseur,27,29,FRA,Rennes,NON,26,James Kwesi Appiah,GHA,1-juin,21,342,John Boye,37
+A,CMR,Jean,MAKOUN,MAKO,MAKOCMR,3. Milieu,31,66,FRA,Rennes,NON,26,Volker Finke,GER,2-juin,11,323,Jean Makoun,56
+C,COL,Eder,ALVAREZ BALANTA,ALVA,ALVACOL,2. Defenseur,21,3,ARG,River Plate,NON,36,Jose Pekerman,ARG,2-juin,16,181,Eder Alvarez Balanta,8
+C,COL,Carlos,CARBONERO,CARB,CARBCOL,3. Milieu,23,1,ARG,River Plate,NON,36,Jose Pekerman,ARG,2-juin,5,20,Carlos Carbonero,8
+C,COL,Teofilo,GUTIERREZ,GUTI,GUTICOL,4. Attaquant,29,30,ARG,River Plate,NON,36,Jose Pekerman,ARG,2-juin,9,671,Teofilo Gutierrez,8
+D,ITA,Daniele,DE ROSSI,DE R,DE RITA,3. Milieu,30,94,ITA,Roma,OUI,26,Cesare Prandelli,ITA,1-juin,16,142,Daniele De Rossi,9
+C,CIV,Gervinho,GERVINHO,GERV,GERVCIV,4. Attaquant,27,53,ITA,Roma,NON,26,Sabri Lamouchi,FRA,1-juin,10,246,Gervinho,23
+A,BRA,Maicon,MAICON,MAIC,MAICBRA,2. Defenseur,32,72,ITA,Roma,NON,46,Luiz Felipe Scolari,BRA,2-juin,23,438,Maicon,3
+F,BIH,Miralem,PJANIC,PJAN,PJANBIH,3. Milieu,24,48,ITA,Roma,NON,26,Safet Susic,BIH,2-juin,8,518,Miralem Pjanic,21
+C,GRE,Vasilis,TOROSIDIS,TORO,TOROGRE,2. Defenseur,28,66,ITA,Roma,NON,31,Fernando Santos,POR,19-mai,15,696,Vasilis Torosidis,12
+G,USA,Mikkel,DISKERUD,DISK,DISKUSA,3. Milieu,23,19,Norvege,Rosenborg,NON,31,Jurgen Klinsmann,GER,22-mai,10,516,Mikkel Diskerud,13
+D,CRC,Cristian,GAMBOA,GAMB,GAMBCRC,2. Defenseur,24,24,Norvege,Rosenborg,NON,37,Jorge Luis Pinto,COL,31-mai,16,129,Cristian Gamboa,28
+A,CRO,Stipe,PLETIKOSA,PLET,PLETCRO,1. Gardien,35,111,RUS,Rostov,NON,27,Niko Kovac,CRO,31-mai,1,668,Stipe Pletikosa,18
+H,RUS,Maksim,KANUNNIKOV,KANU,KANURUS,4. Attaquant,22,2,RUS,Rubin Kazan,OUI,25,Fabio Capello,ITA,2-juin,21,441,Maksim Kanunnikov,19
+H,RUS,Pavel,MOGILEVETS,MOGI,MOGIRUS,3. Milieu,21,1,RUS,Rubin Kazan,OUI,25,Fabio Capello,ITA,6-juin,15,609,Pavel Mogilevets,19
+G,GHA,Wakaso,MUBARAK,MUBA,MUBAGHA,3. Milieu,23,16,RUS,Rubin Kazan,NON,26,James Kwesi Appiah,GHA,1-juin,22,709,Wakaso Mubarak,37
+H,RUS,Sergey,RYZHIKOV,RYZH,RYZHRUS,1. Gardien,33,1,RUS,Rubin Kazan,OUI,25,Fabio Capello,ITA,2-juin,16,641,Sergey Ryzhikov,19
+C,CIV,Ismael,DIOMANDE,DIOM,DIOMCIV,3. Milieu,21,1,FRA,Saint-etienne,NON,26,Sabri Lamouchi,FRA,1-juin,14,298,Ismael Diomande,23
+C,CIV,Max,GRADEL,GRAD,GRADCIV,4. Attaquant,26,25,FRA,Saint-etienne,NON,26,Sabri Lamouchi,FRA,1-juin,15,488,Max Gradel,23
+E,FRA,Stephane,RUFFIER,RUFF,RUFFFRA,1. Gardien,27,2,FRA,Saint-etienne,OUI,35,Didier Deschamps,FRA,13-mai,16,662,Stephane Ruffier,17
+G,GER,Shkodran,MUSTAFI,MUST,MUSTGER,Défenseur,22,1,ITA,Sampdoria,NON,43,Joachim Low,GER,7-juin,21,450,Shkodran Mustafi,2
+E,HON,Victor,BERNARDEZ,BERN,BERNHON,2. Defenseur,32,77,USA,San Jose Earthquakes,NON,26,Luis Fernando Suarez,COL,5-mai,5,700,Victor Bernardez,33
+G,USA,Chris,WONDOLOWSKI,WOND,WONDUSA,4. Attaquant,31,20,USA,San Jose Earthquakes,OUI,31,Jurgen Klinsmann,GER,22-mai,18,117,Chris Wondolowski,13
+C,COL,Carlos,VALDES,VALD,VALDCOL,2. Defenseur,29,14,ARG,San Lorenzo,NON,36,Jose Pekerman,ARG,2-juin,23,106,Carlos Valdes,8
+C,JPN,Toshihiro,AOYAMA,AOYA,AOYAJPN,3. Milieu,28,5,JPN,Sanfrecce Hiroshima,OUI,26,Alberto Zaccheroni,ITA,12-mai,14,688,Toshihiro Aoyama,46
+H,KOR,Hwang,SEOK-HO,SEOK,SEOKKOR,2. Defenseur,24,3,JPN,Sanfrecce Hiroshima,NON,25,Hong Myung-Bo,KOR,8-mai,6,291,Hwang Seok-Ho,57
+H,KOR,Lee,KEUN-HO,KEUN,KEUNKOR,4. Attaquant,29,63,KOR,Sangju Sangmu,OUI,25,Hong Myung-Bo,KOR,8-mai,11,415,Lee Keun-Ho,57
+E,ECU,Edison,MENDEZ,MEND,MENDECU,3. Milieu,35,109,COL,Santa Fe,NON,26,Reinaldo Rueda,ECU,2-juin,8,186,Edison Mendez,26
+C,COL,Camilo,VARGAS,VARG,VARGCOL,1. Gardien,24,0,COL,Santa Fe,OUI,36,Jose Pekerman,ARG,2-juin,12,97,Camilo Vargas,8
+B,CHI,Eugenio,MENA,MENA,MENACHI,2. Defenseur,25,25,BRA,Santos FC,NON,31,Jorge Sampaoli,ARG,1-juin,2,208,Eugenio Mena,14
+A,MEX,Oribe,PERALTA,PERA,PERAMEX,4. Attaquant,30,33,MEX,Santos Laguna,OUI,32,Miguel Herrera,MEX,9-mai,19,547,Oribe Peralta,20
+D,URU,alvaro,PEREIRA,PERE,PEREURU,3. Milieu,28,56,BRA,Sao Paulo,NON,30,Oscar Tabarez,URU,31-mai,6,40,alvaro Pereira,7
+D,CRC,Heiner,MORA,MORA,MORACRC,2. Defenseur,29,22,CRC,Saprissa,OUI,37,Jorge Luis Pinto,COL,31-mai,8,277,Heiner Mora,28
+D,CRC,Yeltsin,TEJEDA,TEJE,TEJECRC,3. Milieu,22,22,CRC,Saprissa,OUI,37,Jorge Luis Pinto,COL,31-mai,17,727,Yeltsin Tejeda,28
+D,CRC,Michael,UMANA,UMAN,UMANCRC,2. Defenseur,31,79,CRC,Saprissa,OUI,37,Jorge Luis Pinto,COL,31-mai,4,509,Michael Umana,28
+E,SUI,Reto,ZIEGLER,ZIEG,ZIEGSUI,2. Defenseur,28,35,ITA,Sassuolo,NON,32,Ottmar Hitzfeld,GER,13-mai,3,594,Reto Ziegler,6
+E,SUI,Gelson,FERNANDES,FERN,FERNSUI,3. Milieu,27,47,GER,SC Freiburg,NON,32,Ottmar Hitzfeld,GER,13-mai,16,241,Gelson Fernandes,6
+G,GER,Matthias,GINTER,GINT,GINTGER,3. Milieu,20,2,GER,SC Freiburg,OUI,43,Joachim Low,GER,2-juin,3,483,Matthias Ginter,2
+E,SUI,Admir,MEHMEDI,MEHM,MEHMSUI,4. Attaquant,23,20,GER,SC Freiburg,NON,32,Ottmar Hitzfeld,GER,13-mai,18,7,Admir Mehmedi,6
+F,BIH,Mensur,MUJDZA,MUJD,MUJDBIH,2. Defenseur,30,24,GER,SC Freiburg,NON,26,Safet Susic,BIH,2-juin,13,500,Mensur Mujdza,21
+G,GHA,Kevin-Prince,BOATENG,BOAT,BOATGHA,4. Attaquant,27,12,GER,Schalke 04,NON,26,James Kwesi Appiah,GHA,1-juin,9,389,Kevin-Prince Boateng,37
+G,GER,Julian,DRAXLER,DRAX,DRAXGER,3. Milieu,20,11,GER,Schalke 04,OUI,43,Joachim Low,GER,2-juin,14,376,Julian Draxler,2
+G,GER,Benedikt,HOEWEDES,HOEW,HOEWGER,2. Defenseur,26,20,GER,Schalke 04,OUI,43,Joachim Low,GER,2-juin,4,83,Benedikt Höwedes,2
+B,NED,Klaas-Jan,HUNTELAAR,HUNT,HUNTNED,4. Attaquant,30,62,GER,Schalke 04,NON,45,Louis van Gaal,NED,31-mai,19,398,Klaas-Jan Huntelaar,15
+F,BIH,Sead,KOLASINAC,KOLA,KOLABIH,2. Defenseur,20,4,GER,Schalke 04,NON,26,Safet Susic,BIH,2-juin,5,632,Sead Kolasinac,21
+A,CMR,Joel,MATIP,MATI,MATICMR,3. Milieu,22,23,GER,Schalke 04,NON,26,Volker Finke,GER,2-juin,21,339,Joel Matip,56
+C,JPN,Atsuto,UCHIDA,UCHI,UCHIJPN,2. Defenseur,26,67,GER,Schalke 04,NON,26,Alberto Zaccheroni,ITA,12-mai,2,70,Atsuto Uchida,46
+G,USA,Clint,DEMPSEY,DEMP,DEMPUSA,4. Attaquant,31,104,USA,Seattle Sounders FC,OUI,31,Jurgen Klinsmann,GER,22-mai,8,127,Clint Dempsey (c),13
+G,USA,DeAndre,YEDLIN,YEDL,YEDLUSA,2. Defenseur,20,4,USA,Seattle Sounders FC,OUI,31,Jurgen Klinsmann,GER,22-mai,2,156,DeAndre Yedlin,13
+F,IRN,Rahman,AHMADI,AHMA,AHMAIRN,1. Gardien,33,10,IRN,Sepahan,OUI,25,Carlos Queiroz,POR,1-juin,1,584,Rahman Ahmadi,43
+F,IRN,Ehsan,HAJSAFI,HAJS,HAJSIRN,3. Milieu,24,61,IRN,Sepahan,OUI,25,Carlos Queiroz,POR,1-juin,3,192,Ehsan Hajsafi,43
+C,COL,Carlos,BACCA,BACC,BACCCOL,4. Attaquant,27,11,ESP,Sevilla,NON,36,Jose Pekerman,ARG,2-juin,17,100,Carlos Bacca,8
+G,POR,Beto,BETO,BETO,BETOPOR,1. Gardien,32,7,ESP,Sevilla,NON,26,Paulo Bento,POR,19-mai,22,87,Beto,4
+A,CMR,Stephane,MBIA,MBIA,MBIACMR,3. Milieu,28,49,ESP,Sevilla,NON,26,Volker Finke,GER,2-juin,17,661,Stephane Mbia,56
+A,CRO,Ivan,RAKITIC,RAKI,RAKICRO,3. Milieu,26,62,ESP,Sevilla,NON,27,Niko Kovac,CRO,31-mai,7,302,Ivan Rakitic,18
+C,CIV,Sylvain,GBOHOUO,GBOH,GBOHCIV,1. Gardien,25,1,CIV,Sewe Sport,OUI,26,Sabri Lamouchi,FRA,1-juin,16,670,Sylvain Gbohouo,23
+A,BRA,Bernard,BERNARD,BERN,BERNBRA,3. Milieu,21,11,Ukraine,Shakhtar Donetsk,NON,46,Luiz Felipe Scolari,BRA,2-juin,20,86,Bernard,3
+A,CRO,Eduardo,EDUARDO,EDUA,EDUACRO,4. Attaquant,31,63,Ukraine,Shakhtar Donetsk,NON,27,Niko Kovac,CRO,31-mai,22,187,Eduardo,18
+A,CRO,Darijo,SRNA,SRNA,SRNACRO,2. Defenseur,32,112,Ukraine,Shakhtar Donetsk,NON,27,Niko Kovac,CRO,31-mai,11,148,Darijo Srna (c),18
+B,AUS,Ryan,MCGOWAN,MCGO,MCGOAUS,2. Defenseur,24,9,China,Shandong Luneng Taishan,NON,26,Ange Postecoglou,AUS,3-juin,19,619,Ryan McGowan,62
+B,AUS,Dario,VIDOSIC,VIDO,VIDOAUS,3. Milieu,27,23,SUI,Sion,NON,26,Ange Postecoglou,AUS,3-juin,20,149,Dario Vidosic,62
+G,GHA,Jordan,AYEW,AYEW,AYEWGHA1,4. Attaquant,22,12,FRA,Sochaux,NON,26,James Kwesi Appiah,GHA,1-juin,13,349,Jordan Ayew,37
+D,ENG,Adam,LALLANA,LALL,LALLENG,3. Milieu,26,4,ENG,Southampton,OUI,26,Roy Hodgson,ENG,12-mai,20,5,Adam Lallana,10
+D,ENG,Rickie,LAMBERT,LAMB,LAMBENG,4. Attaquant,32,4,ENG,Southampton,OUI,26,Roy Hodgson,ENG,12-mai,18,601,Rickie Lambert,10
+A,CRO,Dejan,LOVREN,LOVR,LOVRCRO,2. Defenseur,24,25,ENG,Southampton,NON,27,Niko Kovac,CRO,31-mai,6,157,Dejan Lovren,18
+D,URU,Gaston,RAMIREZ,RAMI,RAMIURU,3. Milieu,23,28,ENG,Southampton,NON,30,Oscar Tabarez,URU,31-mai,18,240,Gaston Ramirez,7
+E,FRA,Morgan,SCHNEIDERLIN,SCHN,SCHNFRA,3. Milieu,24,1,ENG,Southampton,NON,35,Didier Deschamps,FRA,6-juin,22,126,Morgan Schneiderlin,17
+D,ENG,Luke,SHAW,SHAW,SHAWENG,2. Defenseur,18,1,ENG,Southampton,OUI,26,Roy Hodgson,ENG,12-mai,23,436,Luke Shaw,10
+C,JPN,Maya,YOSHIDA,YOSH,YOSHJPN,2. Defenseur,25,40,ENG,Southampton,NON,26,Alberto Zaccheroni,ITA,12-mai,22,494,Maya Yoshida,46
+H,RUS,Denis,GLUSHAKOV,GLUS,GLUSRUS,3. Milieu,27,26,RUS,Spartak Moscow,OUI,25,Fabio Capello,ITA,2-juin,8,158,Denis Glushakov,19
+H,RUS,Dmitri,KOMBAROV,KOMB,KOMBRUS,2. Defenseur,27,21,RUS,Spartak Moscow,OUI,25,Fabio Capello,ITA,2-juin,23,174,Dmitri Kombarov,19
+G,POR,William,CARVALHO,CARV,CARVPOR,3. Milieu,22,3,POR,Sporting,OUI,26,Paulo Bento,POR,19-mai,6,716,William Carvalho,4
+G,POR,Rui,PATRICIO,PATR,PATRPOR,1. Gardien,26,29,POR,Sporting,OUI,26,Paulo Bento,POR,19-mai,12,618,Rui Patricio,4
+F,ARG,Marcos,ROJO,ROJO,ROJOARG,2. Defenseur,24,20,POR,Sporting,NON,44,Alejandro Sabella,ARG,2-juin,16,453,Marcos Rojo,5
+F,IRN,Alireza,HAGHIGHI,HAGH,HAGHIRN2,1. Gardien,26,5,POR,Sporting Covilh,NON,25,Carlos Queiroz,POR,1-juin,12,36,Alireza Haghighi,43
+H,ALG,Islam,SLIMANI,SLIM,SLIMALG,4. Attaquant,25,19,POR,Sporting CP,NON,29,Vahid Halilhodzic,BIH,2-juin,13,297,Islam Slimani,22
+G,USA,Matt,BESLER,BESL,BESLUSA,2. Defenseur,27,16,USA,Sporting Kansas City,OUI,31,Jurgen Klinsmann,GER,22-mai,5,479,Matt Besler,13
+G,USA,Graham,ZUSI,ZUSI,ZUSIUSA,3. Milieu,27,22,USA,Sporting Kansas City,OUI,31,Jurgen Klinsmann,GER,22-mai,19,265,Graham Zusi,13
+C,CIV,Sayouba,MANDE,MAND,MANDCIV,1. Gardien,21,1,Norvege,Stabek,NON,26,Sabri Lamouchi,FRA,1-juin,23,631,Sayouba Mande,23
+H,BEL,Laurent,CIMAN,CIMA,CIMABEL,2. Defenseur,28,8,BEL,Standard Liege,OUI,34,Marc Wilmots,BEL,2-juin,23,410,Laurent Ciman,11
+C,JPN,Eiji,KAWASHIMA,KAWA,KAWAJPN,1. Gardien,31,56,BEL,Standard Liege,NON,26,Alberto Zaccheroni,ITA,12-mai,1,193,Eiji Kawashima,46
+G,GHA,Daniel,OPARE,OPAR,OPARGHA,2. Defenseur,23,16,BEL,Standard Liege,NON,26,James Kwesi Appiah,GHA,1-juin,4,139,Daniel Opare,37
+F,BIH,Asmir,BEGOVIC,BEGO,BEGOBIH,1. Gardien,26,30,ENG,Stoke City,NON,26,Safet Susic,BIH,2-juin,1,69,Asmir Begovic,21
+G,USA,Geoff,CAMERON,CAME,CAMEUSA,2. Defenseur,28,26,ENG,Stoke City,NON,31,Jurgen Klinsmann,GER,22-mai,20,242,Geoff Cameron,13
+F,NGA,Peter,ODEMWINGIE,ODEM,ODEMNGA,4. Attaquant,32,60,ENG,Stoke City,NON,30,Stephen Keshi,NGA,2-juin,8,573,Peter Odemwingie,44
+E,HON,Wilson,PALACIOS,PALA,PALAHON1,3. Milieu,29,94,ENG,Stoke City,NON,26,Luis Fernando Suarez,COL,5-mai,8,718,Wilson Palacios,33
+G,GHA,Adam,KWARASEY,KWAR,KWARGHA,1. Gardien,26,21,Norvege,Stromgodset,NON,26,James Kwesi Appiah,GHA,1-juin,12,4,Adam Kwarasey,37
+F,BIH,Anel,HADZIC,HADZ,HADZBIH,3. Milieu,24,2,Autriche,Sturm Graz,NON,26,Safet Susic,BIH,2-juin,20,54,Anel Hadzic,21
+G,USA,Jozy,ALTIDORE,ALTI,ALTIUSA,4. Attaquant,24,69,ENG,Sunderland,NON,31,Jurgen Klinsmann,GER,22-mai,17,367,Jozy Altidore,13
+H,KOR,Ki,SUNG-YUENG,SUNG,SUNGKOR1,3. Milieu,25,58,ENG,Sunderland,NON,25,Hong Myung-Bo,KOR,8-mai,16,392,Ki Sung-Yueng,57
+F,NGA,Kunle,ODUNLAMI,ODUN,ODUNNGA,2. Defenseur,24,10,NGA,Sunshine Stars,OUI,30,Stephen Keshi,NGA,2-juin,12,405,Kunle Odunlami,44
+H,KOR,Jung,SUNG-RYONG,SUNG,SUNGKOR2,1. Gardien,29,60,KOR,Suwon Bluewings,OUI,25,Hong Myung-Bo,KOR,8-mai,1,379,Jung Sung-Ryong,57
+C,CIV,Wilfried,BONY,BONY,BONYCIV,4. Attaquant,25,24,ENG,Swansea City,NON,26,Sabri Lamouchi,FRA,1-juin,12,715,Wilfried Bony,23
+B,NED,Jonathan,DE GUZMAN,DE G,DE GNED,3. Milieu,26,10,ENG,Swansea City,NON,45,Louis van Gaal,NED,31-mai,6,347,Jonathan de Guzman,15
+B,NED,Michel,VORM,VORM,VORMNED,1. Gardien,30,14,ENG,Swansea City,NON,45,Louis van Gaal,NED,31-mai,22,510,Michel Vorm,15
+B,AUS,Massimo,LUONGO,LUON,LUONAUS,3. Milieu,21,1,ENG,Swindon Town,NON,26,Ange Postecoglou,AUS,3-juin,21,471,Massimo Luongo,62
+H,RUS,Andrei,SEMYONOV,SEMY,SEMYRUS,2. Defenseur,25,1,RUS,Terek Grozny,OUI,25,Fabio Capello,ITA,2-juin,6,49,Andrei Semyonov,19
+E,ECU,Jaime,AYOVI,AYOV,AYOVECU,4. Attaquant,26,30,MEX,Tijuana,NON,26,Reinaldo Rueda,ECU,2-juin,17,307,Jaime Ayovi,26
+E,ECU,Fidel,MARTINEZ,MART,MARTECU,3. Milieu,24,8,MEX,Tijuana,NON,26,Reinaldo Rueda,ECU,2-juin,20,227,Fidel Martinez,26
+A,MEX,Miguel,ANGEL PONCE,ANGE,ANGEMEX,2. Defenseur,25,8,MEX,Toluca,OUI,32,Miguel Herrera,MEX,9-mai,16,512,Miguel Angel Ponce,20
+A,MEX,Isaac,BRIZUELA,BRIZ,BRIZMEX,3. Milieu,23,7,MEX,Toluca,OUI,32,Miguel Herrera,MEX,9-mai,17,296,Isaac Brizuela,20
+A,MEX,Alfredo,TALAVERA,TALA,TALAMEX,1. Gardien,31,14,MEX,Toluca,OUI,32,Miguel Herrera,MEX,9-mai,12,35,Alfredo Talavera,20
+D,ITA,Alessio,CERCI,CERC,CERCITA,4. Attaquant,26,11,ITA,Torino,OUI,26,Cesare Prandelli,ITA,1-juin,11,27,Alessio Cerci,9
+D,ITA,Matteo,DARMIAN,DARM,DARMITA,2. Defenseur,24,1,ITA,Torino,OUI,26,Cesare Prandelli,ITA,1-juin,4,481,Matteo Darmian,9
+D,ITA,Ciro,IMMOBILE,IMMO,IMMOITA,4. Attaquant,24,2,ITA,Torino,OUI,26,Cesare Prandelli,ITA,1-juin,17,123,Ciro Immobile,9
+C,GRE,Panagiotis,TACHTSIDIS,TACH,TACHGRE,3. Milieu,23,6,ITA,Torino,NON,31,Fernando Santos,POR,19-mai,23,558,Panagiotis Tachtsidis,12
+G,USA,Michael,BRADLEY,BRAD,BRADUSA,3. Milieu,26,85,USA,Toronto FC,OUI,31,Jurgen Klinsmann,GER,22-mai,4,505,Michael Bradley,13
+A,BRA,Julio,CESAR,CESA,CESABRA,1. Gardien,34,80,USA,Toronto FC,NON,46,Luiz Felipe Scolari,BRA,2-juin,12,378,Julio Cesar,3
+H,ALG,Nabil,BENTALEB,BENT,BENTALG,3. Milieu,19,2,ENG,Tottenham Hotspur,NON,29,Vahid Halilhodzic,BIH,2-juin,14,526,Nabil Bentaleb,22
+H,BEL,Nacer,CHADLI,CHAD,CHADBEL,3. Milieu,24,20,ENG,Tottenham Hotspur,NON,34,Marc Wilmots,BEL,2-juin,22,528,Nacer Chadli,11
+H,BEL,Mousa,DEMBELE,DEMB,DEMBBEL,3. Milieu,26,55,ENG,Tottenham Hotspur,NON,34,Marc Wilmots,BEL,2-juin,19,523,Mousa Dembele,11
+E,FRA,Hugo,LLORIS,LLOR,LLORFRA,1. Gardien,27,56,ENG,Tottenham Hotspur,NON,35,Didier Deschamps,FRA,13-mai,1,289,Hugo Lloris (c),17
+A,BRA,Paulinho,PAULINHO,PAUL,PAULBRA,3. Milieu,25,26,ENG,Tottenham Hotspur,NON,46,Luiz Felipe Scolari,BRA,2-juin,8,567,Paulinho,3
+H,BEL,Jan,VERTONGHEN,VERT,VERTBEL,2. Defenseur,27,56,ENG,Tottenham Hotspur,NON,34,Marc Wilmots,BEL,2-juin,5,313,Jan Vertonghen,11
+C,COL,Abel,AGUILAR,AGUI,AGUICOL,3. Milieu,29,49,FRA,Toulouse,NON,36,Jose Pekerman,ARG,2-juin,8,2,Abel Aguilar,8
+C,CIV,Jean-Daniel,AKPA-AKPRO,AKPA,AKPACIV,2. Defenseur,21,1,FRA,Toulouse,NON,26,Sabri Lamouchi,FRA,1-juin,7,324,Jean-Daniel Akpa-Akpro,23
+C,CIV,Serge,AURIER,AURI,AURICIV,2. Defenseur,21,8,FRA,Toulouse,NON,26,Sabri Lamouchi,FRA,1-juin,17,639,Serge Aurier,23
+C,CIV,Sol,BAMBA,BAMB,BAMBCIV,2. Defenseur,29,43,Turkey,Trabzonspor,NON,26,Sabri Lamouchi,FRA,1-juin,22,656,Sol Bamba,23
+C,CIV,Didier,ZOKORA,ZOKO,ZOKOCIV,2. Defenseur,33,119,Turkey,Trabzonspor,NON,26,Sabri Lamouchi,FRA,1-juin,5,161,Didier Zokora,23
+F,IRN,Karim,ANSARIFARD,ANSA,ANSAIRN,4. Attaquant,24,41,IRN,Tractor Sazi,OUI,25,Carlos Queiroz,POR,1-juin,10,382,Karim Ansarifard,43
+B,CHI,Felipe,GUTIERREZ,GUTI,GUTICHI,3. Milieu,23,18,NED,FC Twente,NON,31,Jorge Sampaoli,ARG,1-juin,16,222,Felipe Gutierrez,14
+A,MEX,Alan,PULIDO,PULI,PULIMEX,4. Attaquant,23,6,MEX,UANL,OUI,32,Miguel Herrera,MEX,9-mai,11,17,Alan Pulido,20
+A,MEX,Carlos,SALCIDO,SALC,SALCMEX,2. Defenseur,34,122,MEX,UANL,OUI,32,Miguel Herrera,MEX,9-mai,3,104,Carlos Salcido,20
+G,GHA,Emmanuel,AGYEMANG-BADU,AGYE,AGYEGHA,3. Milieu,23,48,ITA,Udinese,NON,26,James Kwesi Appiah,GHA,1-juin,8,198,Emmanuel Agyemang-Badu,37
+H,ALG,Hassan,YEBDA,YEBD,YEBDALG,3. Milieu,30,24,ITA,Udinese,NON,29,Vahid Halilhodzic,BIH,2-juin,8,274,Hassan Yebda,22
+H,KOR,Kim,SEUNG-GYU,SEUN,SEUNKOR,1. Gardien,23,5,KOR,Ulsan Hyundai,OUI,25,Hong Myung-Bo,KOR,8-mai,21,395,Kim Seung-Gyu,57
+H,KOR,Kim,SHIN-WOOK,SHIN,SHINKOR,4. Attaquant,26,26,KOR,Ulsan Hyundai,OUI,25,Hong Myung-Bo,KOR,8-mai,18,396,Kim Shin-Wook,57
+H,KOR,Lee,YONG,YONG,YONGKOR,2. Defenseur,27,11,KOR,Ulsan Hyundai,OUI,25,Hong Myung-Bo,KOR,8-mai,12,416,Lee Yong,57
+F,IRN,Pejman,MONTAZERI,MONT,MONTIRN,2. Defenseur,30,21,Qatar,Umm Salal,NON,25,Carlos Queiroz,POR,1-juin,15,569,Pejman Montazeri,43
+B,CHI,Cristopher,TOSELLI,TOSE,TOSECHI,1. Gardien,25,4,CHI,Universidad Catolica,OUI,31,Jorge Sampaoli,ARG,1-juin,12,133,Cristopher Toselli,14
+B,CHI,Johnny,HERRERA,HERR,HERRCHI,1. Gardien,33,8,CHI,Universidad de CHI,OUI,31,Jorge Sampaoli,ARG,1-juin,23,346,Johnny Herrera,14
+B,CHI,Jose,ROJAS,ROJA,ROJACHI,2. Defenseur,31,19,CHI,Universidad de CHI,OUI,31,Jorge Sampaoli,ARG,1-juin,13,364,Jose Rojas,14
+C,JPN,Shusaku,NISHIKAWA,NISH,NISHJPN,1. Gardien,27,12,JPN,Urawa Red Diamonds,OUI,26,Alberto Zaccheroni,ITA,12-mai,12,650,Shusaku Nishikawa,46
+H,ALG,Mohamed,ZEMMAMOUCHE,ZEMM,ZEMMALG,1. Gardien,29,7,ALG,USM Alger,OUI,29,Vahid Halilhodzic,BIH,2-juin,16,521,Mohamed Zemmamouche,22
+B,AUS,Tommy,OAR,OAR,OARAUS,3. Milieu,22,15,NED,Utrecht,NON,26,Ange Postecoglou,AUS,3-juin,11,685,Tommy Oar,62
+D,CRC,Diego,CALVO,CALV,CALVCRC,3. Milieu,23,10,Norvege,Vålerenga,NON,37,Jorge Luis Pinto,COL,31-mai,20,163,Diego Calvo,28
+G,POR,Ricardo,COSTA,COST,COSTPOR,2. Defenseur,33,18,ESP,Valencia,NON,26,Paulo Bento,POR,19-mai,13,599,Ricardo Costa,4
+H,ALG,Sofiane,FEGHOULI,FEGH,FEGHALG,3. Milieu,24,18,ESP,Valencia,NON,29,Vahid Halilhodzic,BIH,2-juin,10,654,Sofiane Feghouli,22
+G,POR,João,PEREIRA,PERE,PEREPOR,2. Defenseur,30,35,ESP,Valencia,NON,26,Paulo Bento,POR,19-mai,21,335,João Pereira,4
+E,SUI,Philippe,SENDEROS,SEND,SENDSUI,2. Defenseur,29,53,ESP,Valencia,NON,32,Ottmar Hitzfeld,GER,13-mai,4,577,Philippe Senderos,6
+B,CHI,Eduardo,VARGAS,VARG,VARGCHI,4. Attaquant,24,30,ESP,Valencia,NON,31,Jorge Sampaoli,ARG,1-juin,11,189,Eduardo Vargas,14
+H,ALG,Carl,MEDJANI,MEDJ,MEDJALG,2. Defenseur,29,25,FRA,Valenciennes,NON,29,Vahid Halilhodzic,BIH,2-juin,7,98,Carl Medjani,22
+G,GHA,Majeed,WARIS,WARI,WARIGHA,4. Attaquant,22,9,FRA,Valenciennes,NON,26,James Kwesi Appiah,GHA,1-juin,18,439,Majeed Waris,37
+F,IRN,Steven,BEITASHOUR,BEIT,BEITIRN,2. Defenseur,27,6,USA,Vancouver Whitecaps,NON,25,Carlos Queiroz,POR,1-juin,20,665,Steven Beitashour,43
+D,URU,Martin,SILVA,SILV,SILVURU,1. Gardien,31,4,BRA,Vasco da Gama,NON,30,Oscar Tabarez,URU,31-mai,23,466,Martin Silva,7
+C,GRE,Vangelis,MORAS,MORA,MORAGRE,2. Defenseur,32,19,ITA,Verona,NON,31,Fernando Santos,POR,19-mai,5,694,Vangelis Moras,12
+C,CIV,Arthur,BOKA,BOKA,BOKACIV,2. Defenseur,31,79,GER,VfB Stuttgart,NON,26,Sabri Lamouchi,FRA,1-juin,3,64,Arthur Boka,23
+E,ECU,Carlos,GRUEZO,GRUE,GRUEECU,3. Milieu,19,2,GER,VfB Stuttgart,NON,26,Reinaldo Rueda,ECU,2-juin,23,102,Carlos Gruezo,26
+F,BIH,Vedad,IBISEVIC,IBIS,IBISBIH,4. Attaquant,29,55,GER,VfB Stuttgart,NON,26,Safet Susic,BIH,2-juin,9,697,Vedad Ibisevic,21
+C,JPN,Gōtoku,SAKAI,SAKA,SAKAJPN,2. Defenseur,23,12,GER,VfB Stuttgart,NON,26,Alberto Zaccheroni,ITA,12-mai,3,264,Gōtoku Sakai,46
+E,SUI,Diego,BENAGLIO,BENA,BENASUI,1. Gardien,30,56,GER,Wolfsburg,NON,32,Ottmar Hitzfeld,GER,13-mai,1,162,Diego Benaglio,6
+H,BEL,Kevin,DE BRUYNE,DE B,DE BBEL,3. Milieu,22,22,GER,Wolfsburg,NON,34,Marc Wilmots,BEL,2-juin,7,386,Kevin De Bruyne,11
+A,BRA,Luiz,GUSTAVO,GUST,GUSTBRA,3. Milieu,26,19,GER,Wolfsburg,NON,46,Luiz Felipe Scolari,BRA,2-juin,17,433,Luiz Gustavo,3
+A,CRO,Ivica,OLIC,OLIC,OLICCRO,4. Attaquant,34,92,GER,Wolfsburg,NON,27,Niko Kovac,CRO,31-mai,18,303,Ivica Olic,18
+A,CRO,Ivan,PERISIC,PERI,PERICRO,3. Milieu,25,29,GER,Wolfsburg,NON,27,Niko Kovac,CRO,31-mai,4,301,Ivan Perisic,18
+E,SUI,Ricardo,RODRIGUEZ,RODR,RODRSUI,2. Defenseur,21,20,GER,Wolfsburg,NON,32,Ottmar Hitzfeld,GER,13-mai,13,600,Ricardo Rodriguez,6
+G,POR,Vieirinha,VIEIRINHA,VIEI,VIEIPOR,3. Milieu,28,7,GER,Wolfsburg,NON,26,Paulo Bento,POR,19-mai,10,703,Vieirinha,4
+F,BIH,Jasmin,FEJZIC,FEJZ,FEJZBIH,1. Gardien,28,0,GER,VfR Aalen,NON,26,Safet Susic,BIH,2-juin,12,314,Jasmin Fejzic,21
+A,MEX,Javier,AQUINO,AQUI,AQUIMEX,3. Milieu,24,22,ESP,Villarreal,NON,32,Miguel Herrera,MEX,9-mai,20,319,Javier Aquino,20
+A,MEX,Giovani,DOS SANTOS,DOS,DOSMEX,4. Attaquant,25,76,ESP,Villarreal,NON,32,Miguel Herrera,MEX,9-mai,10,256,Giovani dos Santos,20
+G,GHA,Christian,ATSU,ATSU,ATSUGHA,3. Milieu,22,22,NED,Vitesse,NON,26,James Kwesi Appiah,GHA,1-juin,7,118,Christian Atsu,37
+E,ECU,Renato,IBARRA,IBAR,IBARECU,3. Milieu,23,17,NED,Vitesse,NON,26,Reinaldo Rueda,ECU,2-juin,5,593,Renato Ibarra,26
+F,NGA,Michael,BABATUNDE,BABA,BABANGA,3. Milieu,21,4,Ukraine,Volyn Lutsk,NON,30,Stephen Keshi,NGA,2-juin,18,503,Michael Babatunde,44
+F,NGA,Reuben,GABRIEL,GABR,GABRNGA,3. Milieu,23,11,BEL,Waasland-Beveren,NON,30,Stephen Keshi,NGA,2-juin,4,595,Reuben Gabriel,44
+F,NGA,Azubuike,EGWUEKWE,EGWU,EGWUNGA,2. Defenseur,24,32,NGA,Warri Wolves,OUI,30,Stephen Keshi,NGA,2-juin,6,76,Azubuike Egwuekwe,44
+H,ALG,Essaed,BELKALEM,BELK,BELKALG,2. Defenseur,25,13,ENG,Watford,NON,29,Vahid Halilhodzic,BIH,2-juin,4,204,Essaed Belkalem,22
+H,KOR,Park,CHU-YOUNG,CHU-,CHU-KOR,4. Attaquant,28,63,ENG,Watford,NON,25,Hong Myung-Bo,KOR,8-mai,10,559,Park Chu-Young,57
+D,ENG,Ben,FOSTER,FOST,FOSTENG,1. Gardien,31,6,ENG,West Bromwich Albion,OUI,26,Roy Hodgson,ENG,12-mai,13,81,Ben Foster,10
+D,URU,Diego,LUGANO,LUGA,LUGAURU,2. Defenseur,33,93,ENG,West Bromwich Albion,NON,30,Oscar Tabarez,URU,31-mai,2,167,Diego Lugano (c),7
+C,COL,Pablo,ARMERO,ARME,ARMECOL,2. Defenseur,27,53,ENG,West Ham United,NON,36,Jose Pekerman,ARG,2-juin,7,554,Pablo Armero,8
+B,AUS,Matthew,SPIRNOVIC,SPIR,SPIRAUS,2. Defenseur,25,18,AUS,Western Sydney Wanderers,OUI,26,Ange Postecoglou,AUS,3-juin,6,482,Matthew SpIRNovic,62
+B,CHI,Jean,BEAUSEJOUR,BEAU,BEAUCHI,3. Milieu,30,59,ENG,Wigan Athletic,NON,31,Jorge Sampaoli,ARG,1-juin,15,322,Jean BEAUSEJOUR,14
+E,HON,Juan,CARLOS GARCIA,CARL,CARLHON,2. Defenseur,26,33,ENG,Wigan Athletic,NON,26,Luis Fernando Suarez,COL,5-mai,6,369,Juan Carlos Garcia,33
+E,HON,Roger,ESPINOZA,ESPI,ESPIHON,3. Milieu,27,41,ENG,Wigan Athletic,NON,26,Luis Fernando Suarez,COL,5-mai,15,607,Roger Espinoza,33
+C,JPN,Manabu,SAITō,SAIT,SAITJPN,4. Attaquant,24,4,JPN,Yokohama F. Marinos,OUI,26,Alberto Zaccheroni,ITA,12-mai,20,443,Manabu Saitō,46
+E,SUI,Steve,VON BERGEN,VON,VONSUI,2. Defenseur,30,40,SUI,Young Boys,OUI,32,Ottmar Hitzfeld,GER,13-mai,5,663,Steve von Bergen,6
+H,RUS,Viktor,FAYZULIN,FAYZ,FAYZRUS,3. Milieu,28,18,RUS,Zenit Saint Petersburg,OUI,25,Fabio Capello,ITA,2-juin,20,704,Viktor Fayzulin,19
+A,BRA,Hulk,HULK,HULK,HULKBRA,4. Attaquant,27,35,RUS,Zenit Saint Petersburg,NON,46,Luiz Felipe Scolari,BRA,2-juin,7,290,Hulk,3
+H,RUS,Aleksandr,KERZHAKOV,KERZ,KERZRUS,4. Attaquant,31,79,RUS,Zenit Saint Petersburg,OUI,25,Fabio Capello,ITA,2-juin,11,22,Aleksandr Kerzhakov,19
+H,RUS,Yuri,LODYGIN,LODY,LODYRUS,1. Gardien,24,2,RUS,Zenit Saint Petersburg,OUI,25,Fabio Capello,ITA,2-juin,12,732,Yuri Lodygin,19
+H,BEL,Nicolas,LOMBAERTS,LOMB,LOMBBEL,2. Defenseur,29,26,RUS,Zenit Saint Petersburg,NON,34,Marc Wilmots,BEL,2-juin,18,533,Nicolas Lombaerts,11
+G,POR,Luis,NETO,NETO,NETOPOR,2. Defenseur,26,7,RUS,Zenit Saint Petersburg,NON,26,Paulo Bento,POR,19-mai,14,430,Luis Neto,4
+H,RUS,Oleg,SHATOV,SHAT,SHATRUS,3. Milieu,23,6,RUS,Zenit Saint Petersburg,OUI,25,Fabio Capello,ITA,2-juin,17,541,Oleg Shatov,19
+H,BEL,Axel,WITSEL,WITS,WITSBEL,3. Milieu,25,48,RUS,Zenit Saint Petersburg,NON,34,Marc Wilmots,BEL,2-juin,6,75,Axel Witsel,11
+F,IRN,Ghasem,HADDADIFAR,HADD,HADDIRN,3. Milieu,30,16,IRN,Zob Ahan,OUI,25,Carlos Queiroz,POR,1-juin,11,247,Ghasem Haddadifar,43
+F,BIH,Toni,SUNJIC,SUNJ,SUNJBIH,2. Defenseur,25,7,Ukraine,Zorya Luhansk,NON,26,Safet Susic,BIH,2-juin,15,687,Toni sunjic,21
+H,BEL,Sammy,BOSSUT,BOSS,BOSSBEL,1. Gardien,28,1,BEL,Zulte Waregem,OUI,34,Marc Wilmots,BEL,2-juin,13,624,Sammy Bossut,11
+A,CMR,Fabrice,OLINGA,OLIN,OLINCMR,4. Attaquant,18,8,BEL,Zulte Waregem,NON,26,Volker Finke,GER,2-juin,19,216,Fabrice Olinga,56
+E,SUI,Mario,GAVRANOVIC,GAVR,GAVRSUI,4. Attaquant,24,10,SUI,Zurich,OUI,32,Ottmar Hitzfeld,GER,13-mai,17,456,Mario Gavranovic,6
+E,ECU,Oswaldo ,MINDA,MIND,MINDECU,3. Milieu,31,18,USA,CD Chivas USA,NON,26,Reinaldo Rueda,ECU,2-juin,7,111,Minda,26
+D,CRC,Dave,MYRIE,MYRI,MYRICRC,2,27,36,CRC,Herediano,OUI,37,Jorge Luis Pinto,COL,31-mai,22,9999,DAVID MYRIE,28

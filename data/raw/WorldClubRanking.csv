@@ -1,0 +1,153 @@
+RANK,CLUB,POINTS,COUNTRY
+1,Real Madrid,2039,ESP
+2,Bayern Munich,1973,GER
+3,Juventus,1929,ITA
+4,Manchester City,1922,ENG
+5,Barcelona,1902,ESP
+6,Borussia Dortmund,1890,GER
+7,Paris Saint Germain,1889,FRA
+8,Atletico Madrid,1886,ESP
+9,Liverpool,1876,ENG
+10,Chelsea,1862,ENG
+11,Benfica,1850,POR
+12,Arsenal,1820,ENG
+13,Napoli,1806,ITA
+14,Manchester United,1772,ENG
+15,Roma,1772,ITA
+16,Everton,1766,ENG
+17,Shakhtar Donetsk,1758,UKR
+18,Schalke 04,1741,GER
+19,Athletic Bilbao,1739,ESP
+20,Ajax,1729,NED
+21,Porto,1728,POR
+22,Olympiakos,1721,GRE
+23,Wolfsburg,1720,GER
+24,Sparta Prague,1718,CZE
+25,Tottenham Hotspur,1717,ENG
+26,Bayer Leverkusen,1710,GER
+27,Sevilla,1702,ESP
+28,Cruzeiro,1697,BRA
+29,Monaco,1692,FRA
+30,Fiorentina,1690,ITA
+31,Zenit Saint Petersburg,1690,RUS
+32,AC Milan,1689,ITA
+33,Saint-etienne,1688,FRA
+34,Lille,1683,FRA
+35,Feyenoord,1681,NED
+36,Borussia Monchengladbach,1677,GER
+37,Viktoria Plze,1677,CZE
+38,Celtic,1675,SCO
+39,Inter Milan,1670,ITA
+40,Metalist Kharkiv,1666,UKR
+41,Greçmio,1666,BRA
+42,Levadia Tallinn,1665,EST
+43,Real Sociedad,1660,ESP
+44,Galatasaray,1659,TUR
+45,Sporting,1655,POR
+46,Southampton,1652,ENG
+47,Valencia,1652,ESP
+48,Parma,1647,ITA
+49,FC Twente,1645,NED
+50,Basel,1644,SWZ
+51,Al Hilal,1644,KSA
+52,Salzburg,1643,AUT
+53,Dnipro Dnipropetrovsk,1640,UKR
+54,Fenerbahce,1640,TUR
+55,Lyon,1638,FRA
+56,Rangers,1636,SCO
+57,Torino,1635,ITA
+58,Villarreal,1633,ESP
+59,APOEL Nicosia,1632,CYP
+60,CSKA Moscow,1632,RUS
+61,The New Saints,1632,WAL
+62,Mainz 05,1631,GER
+63,Augsburg,1631,GER
+64,Partizan Beograd,1628,SRB
+65,Santos FC,1627,BRA
+66,Flora Tallinn,1626,EST
+67,Atletico Mineiro,1622,BRA
+68,Guangzhou Evergrande,1622,CHN
+69,Stoke City,1621,ENG
+70,Celta Vigo,1619,ESP
+71,FC Sheriff,1619,MDA
+72,Lazio,1618,ITA
+73,Corinthians,1618,BRA
+74,Dynamo Kyiv,1617,UKR
+75,TP Mazembe,1614,CGO
+76,River Plate,1614,ARG
+77,PFC Ludogorets Razgrad,1613,BUL
+78,Boca Juniors,1612,ARG
+79,Nomme JK Kalju,1609,EST
+80,Olympique Marseille,1607,FRA
+81,Club Brugge,1607,BEL
+82,Anderlecht,1606,BEL
+83,Hoffenheim,1605,GER
+84,Pohang Steelers,1603,KOR
+85,CSKA Sofia,1599,BUL
+86,Atletico PR,1599,BRA
+87,Velez Sarsfield,1599,ARG
+88,PSV,1598,NED
+89,Estudiantes,1597,ARG
+90,BATE Borisov,1596,BLR
+91,San Lorenzo,1596,ARG
+92,Malaga,1593,ESP
+93,HJK Helsinki,1590,FIN
+94,Levante,1590,ESP
+95,Crvena Zvezda,1589,SRB
+96,Al Merreikh,1587,SDN
+97,Steaua Bucure?ti,1585,ROU
+98,Crystal Palace,1585,ENG
+99,Libertad,1585,PAR
+100,AEL Limassol,1585,CYP
+101,Defensor Sporting,1583,URU
+102,Hannover 96,1582,GER
+103,Sao Paulo,1582,BRA
+104,Maccabi Tel Aviv,1581,ISR
+105,Litex Lovech,1579,BUL
+106,Standard Liege,1579,BEL
+107,Lanus,1578,ARG
+108,Omonia Nicosia,1577,CYP
+109,Esperance de Tunis,1576,TUN
+110,Swansea City,1576,ENG
+111,Newell's Old Boys,1575,ARG
+112,Raja Casablanca,1573,MAR
+113,Dacia Chisinau,1573,MDA
+114,Guarani,1572,PAR
+115,Fluminense,1569,BRA
+116,Dinamo Zagreb,1568,CRO
+117,Lokomotiv Moscow,1568,RUS
+118,SC Heerenveen,1567,NED
+119,Universidad Catolica,1567,CHI
+120,Freiburg,1565,GER
+121,Al Hilal Omdurman,1564,SDN
+122,Estoril,1564,POR
+123,Cruz Azul,1564,MEX
+124,Leon,1564,MEX
+125,Maribor,1564,SVN
+126,Goias,1563,BRA
+127,Toluca,1562,MEX
+128,Levski Sofia,1562,BUL
+129,West Ham United,1561,ENG
+130,PAOK,1560,GRE
+131,Rubin Kazan,1560,RUS
+132,Getafe,1558,ESP
+133,Atletico Nacional,1557,COL
+134,Bordeaux,1556,FRA
+135,Al Nassr,1556,KSA
+136,Udinese,1556,ITA
+137,FC Seoul,1556,KOR
+138,America,1555,MEX
+139,Colo Colo,1554,CHI
+140,Vitesse,1554,NED
+141,Portuguesa,1554,BRA
+142,Eintracht Frankfurt,1554,GER
+143,Hellas Verona,1550,ITA
+144,Malmo FF,1549,SWE
+145,Botafogo,1549,BRA
+146,Atalanta,1548,ITA
+147,Gimnasia La Plata,1548,ARG
+148,Internacional,1547,BRA
+149,Panathinaikos,1546,GRE
+150,Godoy Cruz Mza.,1546,ARG
+,,,
+,http://footballdatabase.com/ranking/world,,
